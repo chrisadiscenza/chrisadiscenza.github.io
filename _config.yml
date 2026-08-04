@@ -8,10 +8,10 @@ kramdown:
 callouts:
   definition:
     title: "Definition"
-    color: green-000
+    color: blue
   theorem:
     title: Theorem
-    color: blue
+    color: green
   new:
     title: New
     color: green
