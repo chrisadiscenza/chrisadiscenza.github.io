@@ -6,7 +6,9 @@ has_children: true
 ---
 
 This is the intro to the foundations curriculum.
+
 {: .theorem }
+>
 > $$
 > \begin{align*}
 > Q\left(i\tilde{s}_{n};x,t\right) & =\lambda x+\lambda^{2}t\\
