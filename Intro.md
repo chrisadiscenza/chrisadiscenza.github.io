@@ -16,47 +16,47 @@ This is the intro to the foundations curriculum.
 
 
 $$
-\begin{tabular}{|c|c|c|}
+\begin{array}{|c|c|c|}
 \hline 
-$P$ & $Q$ & $P\implies Q$\tabularnewline
-\hline 
-\hline 
-T & T & T\tabularnewline
-\hline 
-F & T & T\tabularnewline
-\hline 
-T & F & F\tabularnewline
-\hline 
-F & F & T\tabularnewline
-\hline 
-\end{tabular}\  %
-\begin{tabular}{|c|c|c|}
-\hline 
-$P$ & $Q$ & $P\land Q$\tabularnewline
+$P$ & $Q$ & $P\implies Q$\\
 \hline 
 \hline 
-T & T & T\tabularnewline
+T & T & T\\
 \hline 
-F & T & F\tabularnewline
+F & T & T\\
 \hline 
-T & F & F\tabularnewline
+T & F & F\\
 \hline 
-F & F & F\tabularnewline
+F & F & T\\
 \hline 
-\end{tabular} \ %
-\begin{tabular}{|c|c|c|}
+\end{array}\  %
+\begin{array}{|c|c|c|}
 \hline 
-$P$ & $Q$ & $P\lor Q$\tabularnewline
+$P$ & $Q$ & $P\land Q$\\
 \hline 
 \hline 
-T & T & T\tabularnewline
+T & T & T\\
 \hline 
-F & T & T\tabularnewline
+F & T & F\\
 \hline 
-T & F & T\tabularnewline
+T & F & F\\
 \hline 
-F & F & F\tabularnewline
+F & F & F\\
 \hline 
-\end{tabular}
+\end{array} \ %
+\begin{array}{|c|c|c|}
+\hline 
+$P$ & $Q$ & $P\lor Q$\\
+\hline 
+\hline 
+T & T & T\\
+\hline 
+F & T & T\\
+\hline 
+T & F & T\\
+\hline 
+F & F & F\\
+\hline 
+\end{array}
 $$
 
