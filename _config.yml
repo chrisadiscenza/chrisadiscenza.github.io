@@ -1,5 +1,5 @@
 remote_theme: just-the-docs/just-the-docs
-title: Math Curriculum"
+title: Math Curriculum
 description: math Curriculum
 color_scheme: dark
 kramdown:
@@ -7,8 +7,8 @@ kramdown:
 
 callouts:
   definition:
-    title: Definition
-    color: green
+    title: "Definition"
+    color: green-000
   theorem:
     title: Theorem
     color: blue
