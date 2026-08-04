@@ -8,7 +8,7 @@ kramdown:
 callouts:
   definition:
     title: Definition
-    color: black
+    color: green
   theorem:
     title: Theorem
     color: blue
