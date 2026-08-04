@@ -8,7 +8,6 @@ has_children: true
 This is the intro to the foundations curriculum.
 
 {: .theorem }
->
 > $$
 > \begin{align*}
 > Q\left(i\tilde{s}_{n};x,t\right) & =\lambda x+\lambda^{2}t\\
@@ -20,7 +19,7 @@ This is the intro to the foundations curriculum.
 $$
 \begin{array}{|c|c|c|}
 \hline 
-$P$ & $Q$ & $P\implies Q$\\
+P & Q & P\implies Q\\
 \hline 
 \hline 
 T & T & T\\
@@ -32,9 +31,10 @@ T & F & F\\
 F & F & T\\
 \hline 
 \end{array}\  %
+
 \begin{array}{|c|c|c|}
 \hline 
-$P$ & $Q$ & $P\land Q$\\
+P & Q & P\land Q\\
 \hline 
 \hline 
 T & T & T\\
@@ -46,9 +46,10 @@ T & F & F\\
 F & F & F\\
 \hline 
 \end{array} \ %
+
 \begin{array}{|c|c|c|}
 \hline 
-$P$ & $Q$ & $P\lor Q$\\
+P & Q & P\lor Q\\
 \hline 
 \hline 
 T & T & T\\
