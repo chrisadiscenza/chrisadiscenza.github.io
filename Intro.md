@@ -30,7 +30,7 @@ T & F & F\\
 \hline 
 F & F & T\\
 \hline 
-\end{array}  
+\end{array} \: 
 \begin{array}{|c|c|c|}
 \hline 
 P & Q & P\land Q\\
@@ -44,7 +44,7 @@ T & F & F\\
 \hline 
 F & F & F\\
 \hline 
-\end{array} 
+\end{array} \:
 \begin{array}{|c|c|c|}
 \hline 
 P & Q & P\lor Q\\
