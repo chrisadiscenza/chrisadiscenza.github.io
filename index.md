@@ -6,4 +6,5 @@ has_children: true
 ---
 
 Let $\\frac{a}{b}$ be irriducible.
+<img src="{{ site.baseurl }}/assets/images/Basketball girl.heic" alt="basketball girl">
 
