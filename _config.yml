@@ -4,4 +4,20 @@ description: math Curriculum
 color_scheme: dark
 kramdown:
   math_engine: mathjax
-  
+
+callouts:
+  definition:
+    title: Definition
+    color: black
+  theorem:
+    title: Theorem
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
