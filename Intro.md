@@ -8,7 +8,8 @@ has_children: true
 This is the intro to the foundations curriculum.
 
 {: .theorem }
-> $$
+> <span id ="equ1"> </span>
+>$$
 > \begin{align*}
 > Q\left(i\tilde{s}_{n};x,t\right) & =\lambda x+\lambda^{2}t\\
 > & =i\tilde{s}_{n}x-\tilde{s}_{n}^{2}t
@@ -60,4 +61,4 @@ F & F & F\\
 \hline 
 \end{array}
 $$
-
+Now refer to the first [equation.](#equ1) 
