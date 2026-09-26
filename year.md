@@ -1,7 +1,7 @@
 ---
 title: Schedule
 layout: default
-nav_order: 1
+nav_order: 5
 parent: Home
 has_children: true
 ---
