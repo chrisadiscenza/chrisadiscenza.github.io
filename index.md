@@ -15,7 +15,7 @@ has_children: true
 # <b>Washington Parks Academy</b> 
 
 {: .text-center}
-## <b> Mathematics Curriculum</b>
+## <b> Middle School Mathematics Curriculum</b>
 
 
 {: .text-center}
