@@ -22,7 +22,7 @@ has_children: true
 
 This curriculum establishes a foundation of mathematics for the student to understand the concepts.
 
-It engourages the idea that concepts are built on “first principles”. 
+It encourages the idea that concepts are built on “first principles”. 
 
 It builds the foundations of mathematics by “Asking questions”. The students will discover questions that have no solution within the context of the discussion. This will allow them to construct additional mathematical concepts that answer the questions. 
 
