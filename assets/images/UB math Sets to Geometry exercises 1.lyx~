@@ -1,0 +1,3427 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass beamer
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding default
+\font_roman "times" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\use_minted 0
+\branch Mathematica code
+\selected 0
+\filename_suffix 0
+\color #ffffff
+\end_branch
+\branch Ideas
+\selected 0
+\filename_suffix 0
+\color #ffffff
+\end_branch
+\branch Details
+\selected 0
+\filename_suffix 0
+\color #ffffff
+\end_branch
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+UB Math
+\end_layout
+
+\begin_layout Subtitle
+Worksheets: Answer all questions on pages titled with 
+\begin_inset Quotes eld
+\end_inset
+
+Exercises!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+What is math?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Is it a science? Is it art?
+\end_layout
+
+\begin_layout Itemize
+If its a science does that mean math is discovered?
+\end_layout
+
+\begin_layout Itemize
+If its like art does that mean its created by humans or invented?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Cauchy bowtie.JPG
+	lyxscale 10
+	width 40text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Is math discovered or invented?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+What is a set?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+A 
+\color red
+set
+\color inherit
+ is a collection of things.
+ For example, we could talk about the set of files on my desktop, a set
+ of turntables or a set of cards.
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Screen Shot 2020-06-24 at 11.28.56 PM.png
+	lyxscale 20
+	width 30text%
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename set game cards.png
+	lyxscale 30
+	width 30text%
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Turntables2.jpg
+	lyxscale 10
+	width 30text%
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Examples of sets.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+To sound a bit more fancy let's call the things inside a set something better
+ than...
+ things.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Let's call them 
+\color blue
+elements
+\color inherit
+.
+\end_layout
+
+\begin_layout Itemize
+How many elements are in the desktop set?
+\end_layout
+
+\begin_layout Itemize
+In the SET GAME, each card has 1 of 3 symbols, 1 of 3 colors, 1 to 3 symbols,
+ and 1 of 3 shadings.
+\end_layout
+
+\begin_layout Itemize
+The number of elements in a set has a fancy name: 
+\color red
+cardinality
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+What do we do with sets?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+We can combine sets together or break them apart.
+\end_layout
+
+\begin_layout Itemize
+There are three special words that help us play with sets: OR, AND, NOT
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Let's say these out loud: 
+\begin_inset Formula $\twonotes$
+\end_inset
+
+ OR 
+\begin_inset Formula $\eighthnote$
+\end_inset
+
+ AND 
+\begin_inset Formula $\halfnote$
+\end_inset
+
+
+\begin_inset Formula $\eighthnote\quarternote$
+\end_inset
+
+ NOT 
+\begin_inset Formula $\twonotes\ \fullnote$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename carrots beans rice.JPG
+	lyxscale 10
+	width 30text%
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename union carrots beans rice.JPG
+	lyxscale 10
+	width 30text%
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename Cookies.jpg
+	lyxscale 10
+	width 30text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+We can eat them? Are they nutritious?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Combining sets
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+We can create a new set from a couple of sets 
+\begin_inset Formula $A$
+\end_inset
+
+ and 
+\begin_inset Formula $B$
+\end_inset
+
+ by using the word: 
+\color blue
+or
+\color inherit
+.
+\end_layout
+
+\begin_layout Itemize
+This is called the 
+\color blue
+union
+\color inherit
+ of 
+\begin_inset Formula $A$
+\end_inset
+
+ and 
+\begin_inset Formula $B$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+We do this by declaring that the union is the set with elements in 
+\begin_inset Formula $A$
+\end_inset
+
+ 
+\color blue
+or
+\color inherit
+ 
+\begin_inset Formula $B$
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+This word 
+\color blue
+or 
+\color inherit
+is not very restrictive.
+\end_layout
+
+\begin_layout Itemize
+Elements in the union are either in 
+\begin_inset Formula $A$
+\end_inset
+
+ or 
+\begin_inset Formula $B$
+\end_inset
+
+ (or both).
+\end_layout
+
+\begin_layout Itemize
+This means that the union of two sets contains everything from both sets.
+\end_layout
+
+\begin_layout Itemize
+All the things!
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+You can take the union of as many sets as you like!
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Even infinitely many sets!
+\end_layout
+
+\begin_layout Itemize
+Wait, sets can be infinite?
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+We symbolize it as 
+\begin_inset Formula $A\cup B$
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Combining sets
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename snails.JPG
+	lyxscale 5
+	width 20text%
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename other snails.JPG
+	lyxscale 5
+	width 20text%
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename shrimps.JPG
+	lyxscale 5
+	width 20text%
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename lil shrimps.JPG
+	lyxscale 5
+	width 20text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Union of seafood.JPG
+	lyxscale 5
+	width 40text%
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Sets of snails and shrimps.
+ Union of seafood dishes.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+You can take the union of as many sets as you like!
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Even infinitely many sets!
+\end_layout
+
+\begin_layout Itemize
+Wait, sets can be infinite?
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+We symbolize it as 
+\begin_inset Formula $A\cup B$
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Dissecting sets
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+We can create a new set from a couple of sets 
+\begin_inset Formula $A$
+\end_inset
+
+ and 
+\begin_inset Formula $B$
+\end_inset
+
+ by using the word: 
+\color red
+and
+\color inherit
+.
+\end_layout
+
+\begin_layout Itemize
+This is called the 
+\color red
+intersection
+\color inherit
+ of 
+\begin_inset Formula $A$
+\end_inset
+
+ and 
+\begin_inset Formula $B$
+\end_inset
+
+ and we write 
+\begin_inset Formula $A\cap B$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+The intersection is the set with elements in 
+\begin_inset Formula $A$
+\end_inset
+
+ 
+\color red
+and
+\color inherit
+ 
+\begin_inset Formula $B$
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The word 
+\color red
+and 
+\color inherit
+here is very strict.
+\end_layout
+
+\begin_layout Itemize
+What is an example of the intersection of country music and hip hop?
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename platipus venn diagram.jpg
+	lyxscale 10
+	height 35theight%
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename kangaven_thumb_2.png
+	lyxscale 10
+	height 35theight%
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Venn Diagrams of animals.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Can you not?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+We can create a new set from a set 
+\begin_inset Formula $A$
+\end_inset
+
+ by using the word: 
+\color red
+not
+\color inherit
+.
+\end_layout
+
+\begin_layout Itemize
+This is called the 
+\color red
+negation
+\color inherit
+ of 
+\begin_inset Formula $A$
+\end_inset
+
+ and we write it as 
+\begin_inset Formula $\neg A$
+\end_inset
+
+ or 
+\begin_inset Formula $\sim A$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+This is where things get a little weird.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+What does it mean to not be in 
+\begin_inset Formula $A$
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Itemize
+Let 
+\begin_inset Formula $A=\text{set of Tik Toks}$
+\end_inset
+
+.
+ What does it mean to not be a 
+\begin_inset Formula $\text{Tik Tok}$
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Itemize
+The set of not 
+\begin_inset Formula $\text{Tik Toks}$
+\end_inset
+
+ is everything in the universe but 
+\begin_inset Formula $\text{Tik Toks}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+In fact, this set is not a 
+\begin_inset Formula $\text{Tik Tok}$
+\end_inset
+
+.
+ So it must be in there too.
+\end_layout
+
+\begin_layout Itemize
+That means the set of not 
+\begin_inset Formula $\text{Tik Toks}$
+\end_inset
+
+ contains as one of it's elements the set of not 
+\begin_inset Formula $\text{Tik Toks}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+In other words it contains itself! This can get problematic.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Can you not? Exercises!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+I warned you it would get weird...
+ or at least confusing.
+\end_layout
+
+\begin_layout Itemize
+Because this can be confusing we often set the stage and state what 
+\color blue
+universe
+\color inherit
+ of elements we intend to discuss.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+When talking about sets we give some context by stating a general set called
+ the universe.
+\end_layout
+
+\begin_layout Itemize
+So if we talk about 
+\begin_inset Formula $\text{Tik Toks}$
+\end_inset
+
+ our universe set could be social media videos.
+\end_layout
+
+\begin_layout Itemize
+Then we write the negation with respect to the universe set as 
+\begin_inset Formula $T\setminus U$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+Write three examples.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Subsets! Exercises!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+We can also dissect a set by only looking at some of its elements.
+\end_layout
+
+\begin_layout Itemize
+This is called a 
+\color blue
+subset
+\color inherit
+.
+\end_layout
+
+\begin_layout Itemize
+The magic words for this concept are in the phrase: 
+\color purple
+If
+\color inherit
+ ...
+ 
+\color green
+then
+\color inherit
+...
+\end_layout
+
+\begin_layout Itemize
+The set 
+\begin_inset Formula $A$
+\end_inset
+
+ is a subset of 
+\begin_inset Formula $B$
+\end_inset
+
+ means the following is true: If an element is in 
+\begin_inset Formula $A$
+\end_inset
+
+ 
+\color green
+then
+\color inherit
+ it is in 
+\begin_inset Formula $B$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+We write 
+\begin_inset Formula $A\subset B$
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+What are some examples of subsets of the set of things in your house?
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename setsubset.png
+	lyxscale 50
+	height 35theight%
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename Cauchy subset.jpg
+	lyxscale 10
+	height 35theight%
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Subset examples
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Staring into nothingness! Exercises!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+There is a strange but useful set called the empty set.
+\end_layout
+
+\begin_layout Itemize
+Yep, that's exactly what it is.
+ It's the set with nothing in it.
+\end_layout
+
+\begin_layout Itemize
+We write the empty set as 
+\begin_inset Formula $\emptyset$
+\end_inset
+
+or 
+\begin_inset Formula $\varnothing$
+\end_inset
+
+ or 
+\begin_inset Formula $\{\}$
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+What is the cardinality of 
+\begin_inset Formula $\varnothing$
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Itemize
+What is 
+\begin_inset Formula $\varnothing\cup A$
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Itemize
+What is 
+\begin_inset Formula $\varnothing\cap A$
+\end_inset
+
+?
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Infinite sets!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Let's look at a set with only one element 
+\begin_inset Formula $\left\{ a\right\} $
+\end_inset
+
+.
+ We call this a singleton set.
+\end_layout
+
+\begin_layout Itemize
+Now look at this weird set 
+\begin_inset Formula $\left\{ \left\{ a\right\} \right\} $
+\end_inset
+
+.
+ Describe this set in words.
+ What is its cardinality?
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+What's the union of these two sets?
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $\left\{ a\right\} \cup\left\{ \left\{ a\right\} \right\} =\left\{ a,\left\{ a\right\} \right\} $
+\end_inset
+
+ What is the cardinality of this set?
+\end_layout
+
+\begin_layout Itemize
+What is we do another union? 
+\begin_inset Formula $\left\{ a,\left\{ a\right\} \right\} \cup\left\{ \left\{ a,\left\{ a\right\} \right\} \right\} $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+In other words, we take a set 
+\begin_inset Formula $A$
+\end_inset
+
+ and union it with the set 
+\begin_inset Formula $\left\{ A\right\} $
+\end_inset
+
+.
+ Then repeat.
+\end_layout
+
+\begin_layout Itemize
+When does it stop? We just invented infinity! More precisely we call this
+ process 
+\color red
+induction
+\color inherit
+.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Math alley.JPG
+	lyxscale 10
+	height 30theight%
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Infinite math alley: once you enter you never return.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Unionize!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+What is a number? Is it how many fingers you hold up? How many followers
+ you have? What is 7? What is it made of?
+\end_layout
+
+\begin_layout Itemize
+Let's play a union game.
+ Start with the empty set 
+\begin_inset Formula $\varnothing$
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Then like we did above, union it with the set that contains it: 
+\begin_inset Formula $\varnothing\cup\left\{ \left\{ \varnothing\right\} \right\} $
+\end_inset
+
+.
+ What do we get?
+\end_layout
+
+\begin_layout Itemize
+What is the cardinality of this set?
+\end_layout
+
+\begin_layout Itemize
+Now lets play this union game on repeat: 
+\begin_inset Formula $\left\{ \varnothing\right\} \cup\left\{ \left\{ \varnothing\right\} \right\} =\left\{ \varnothing,\left\{ \varnothing\right\} \right\} $
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+What is the cardinality?
+\end_layout
+
+\begin_layout Itemize
+And repeat a few more times for fun: 
+\begin_inset Formula $\left\{ \varnothing,\left\{ \varnothing\right\} \right\} \cup\left\{ \left\{ \varnothing,\left\{ \varnothing\right\} \right\} \right\} ,\ \left\{ \varnothing,\left\{ \varnothing\right\} ,\left\{ \varnothing,\left\{ \varnothing\right\} \right\} \right\} \cup\left\{ \left\{ \varnothing,\left\{ \varnothing\right\} ,\left\{ \varnothing,\left\{ \varnothing\right\} \right\} \right\} \right\} $
+\end_inset
+
+...
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Numbers! Exercises!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "60col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Itemize
+This got ugly quick! Lets look at the cardinality and do some name calling.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Let's define the 
+\color blue
+natural numbers
+\color inherit
+ by these sets according to their cardinality.
+\end_layout
+
+\begin_layout Itemize
+Define the number 
+\series bold
+zero
+\series default
+ as the 
+\series bold
+empty set
+\series default
+.
+\end_layout
+
+\begin_layout Itemize
+Then given a number 
+\begin_inset Formula $n$
+\end_inset
+
+, the next number, 
+\begin_inset Formula $n+1$
+\end_inset
+
+ is constructed by taking union of 
+\begin_inset Formula $n$
+\end_inset
+
+ with the set containing 
+\begin_inset Formula $n$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $n+1=n\cup\left\{ n\right\} $
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+Let's compute a few below:
+\end_layout
+
+\end_deeper
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "b"
+use_parbox 0
+use_makebox 0
+width "30col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Ugly but honest natural numbers.jpg
+	lyxscale 30
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "60col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\size tiny
+\begin_inset Formula $0=\varnothing$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size tiny
+\begin_inset Formula $1=\left\{ \varnothing\right\} $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size tiny
+\begin_inset Formula $2=\left\{ \varnothing,\left\{ \varnothing\right\} \right\} $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size tiny
+\begin_inset Formula $3=$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size tiny
+\begin_inset Formula $4=$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size tiny
+\begin_inset Formula $5=$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Numbers Summary!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "60col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Itemize
+Each number is a set whose elements are the previous numbers.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ex:
+\begin_inset Formula $3=\left\{ \varnothing,\left\{ \varnothing\right\} ,\left\{ \varnothing,\left\{ \varnothing\right\} \right\} \right\} =\left\{ 0,1,2\right\} $
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Each number is a set with that many elements.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ex:
+\begin_inset Formula $4=\left\{ \overset{\text{0}}{\overbrace{\varnothing}},\overset{\text{1}}{\overbrace{\left\{ \varnothing\right\} }},\overset{\text{2}}{\overbrace{\left\{ \varnothing,\left\{ \varnothing\right\} \right\} }},\overset{\text{3}}{\overbrace{\left\{ \varnothing,\left\{ \varnothing\right\} ,\left\{ \varnothing,\left\{ \varnothing\right\} \right\} \right\} }}\right\} $
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Every number is a subset of larger numbers.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ex:
+\begin_inset Formula $3\subset4$
+\end_inset
+
+ but also 
+\begin_inset Formula $3\in4$
+\end_inset
+
+ (this means 
+\begin_inset Formula $3$
+\end_inset
+
+ is an element of 
+\begin_inset Formula $4$
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Itemize
+This means we can use the idea of subset to talk about order.
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $3\subset4\iff3<4$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "b"
+use_parbox 0
+use_makebox 0
+width "30col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Cauchy in basket.JPG
+	lyxscale 10
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Square Dance
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "50col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+The rotations and flips of a square act like numbers:
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Formula $\left\{ R_{0},R_{90},R_{180},R_{270},F_{H},F_{V},D_{L},D_{R}\right\} $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+They follow similar rules as addition and multiplication of numbers.
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Combining rotations and flips results in a rotation or flip.
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+\begin_inset Formula $R_{0}$
+\end_inset
+
+ is what we call an identity element: it does nothing.
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Every rotation and flip has cancel buddy.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\size small
+ex.
+ 
+\begin_inset Formula $R_{90}R_{270}=R_{0}$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\size small
+Associative: ex.
+ 
+\begin_inset Formula $\left(R_{180}F_{V}\right)D_{R}=R_{180}\left(F_{V}D_{R}\right)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Which elements commute?
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "b"
+use_parbox 0
+use_makebox 0
+width "40col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename IMG_8403.jpg
+	lyxscale 50
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Square Dance! Exercises!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "30col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+We can solve
+\end_layout
+
+\begin_layout Plain Layout
+equations!
+\end_layout
+
+\begin_layout Plain Layout
+Try these.
+ Solve for 
+\begin_inset Formula $X$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Plain Layout
+1.
+ 
+\begin_inset Formula $R_{90}X=$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+2.
+ 
+\begin_inset Formula $D_{R}X=$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+3.
+ 
+\begin_inset Formula $X^{2}=F_{H}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+4.
+ 
+\begin_inset Formula $R_{90}X=R_{0}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+5.
+ 
+\begin_inset Formula $F_{H}X=XF_{H}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+6.
+ 
+\begin_inset Formula $R_{180}X=XR_{180}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "b"
+use_parbox 0
+use_makebox 0
+width "60col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename D8 Cayley table.jpg
+	lyxscale 10
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Cha Cha Slide
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "60col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+Diagonal left, Diagonal right now y'all...
+\end_layout
+
+\begin_layout Itemize
+The rules define the dance.
+\end_layout
+
+\begin_layout Itemize
+The above rules form a fun dance called a 
+\emph on
+group
+\emph default
+.
+\end_layout
+
+\begin_layout Itemize
+We can play this dance with any polygon: triangle, pentagon, hexagon...
+\end_layout
+
+\begin_layout Itemize
+What happens if we use a circle?
+\end_layout
+
+\begin_layout Itemize
+How many ways can you flip a circle?
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "b"
+use_parbox 0
+use_makebox 0
+width "30col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename static electric hair slide.jpg
+	lyxscale 50
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+911 is 11, No Joke!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "65col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+The rotations of a square are similar to the hands on a clock.
+\end_layout
+
+\begin_layout Itemize
+The clock number system cycles back to 
+\begin_inset Formula $1$
+\end_inset
+
+ after 
+\begin_inset Formula $12$
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+This means 
+\begin_inset Formula $12=0$
+\end_inset
+
+ in clock land.
+\end_layout
+
+\begin_layout Itemize
+Addition is like telling time: ex.
+ 
+\begin_inset Formula $8+7=15=\cancel{12}+3=3$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+What are inverses? ex.
+ 
+\begin_inset Formula $8+4=12\mod12=0$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Clockland is a commutative group
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "b"
+use_parbox 0
+use_makebox 0
+width "30col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Flavor Flav.jpg
+	lyxscale 50
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Mod Out!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "65col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+There are many Clocklands.
+ Instead of 
+\begin_inset Formula $12$
+\end_inset
+
+, it can be any number.
+\end_layout
+
+\begin_layout Itemize
+This type of number land is called modular arithmetic.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+We say 
+\begin_inset Formula $13\mod7=6$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Just divide 
+\begin_inset Formula $13$
+\end_inset
+
+ by 
+\begin_inset Formula $7$
+\end_inset
+
+ and take the remainder.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+What happens if we multiply?
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Formula $4\times3=12\mod7=5$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $4\times3=12\mod5=2$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+What are inverses?
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+What are some subgroups?
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ex.
+ 
+\begin_inset Formula $3+3+3+3=12\mod4=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ex.
+ 
+\begin_inset Formula $2\times2\times2...=?$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "b"
+use_parbox 0
+use_makebox 0
+width "30col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename The_Persistence_of_Memory.jpg
+	lyxscale 50
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Mod Out! Exercises!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "65col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+Try these:
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $15\mod7=$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $4\times3=12\mod9=$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $4\times3=12\mod2=$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $2\times3=6\mod5=$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $5\times2=10\mod5=$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $10\times4=40\mod3=$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $6\times5=30\mod14=$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $10+4=14\mod3=$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $6+5=11\mod4=$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "b"
+use_parbox 0
+use_makebox 0
+width "30col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename The_Persistence_of_Memory.jpg
+	lyxscale 50
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Euclid's Elements
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "50col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Itemize
+In Ancient Greece, 300 BCE, geometry was math and the laws of nature.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Euclid was messenger and messiah.
+\end_layout
+
+\begin_layout Itemize
+The Elements: geometry in 13 books
+\end_layout
+
+\begin_layout Itemize
+Defines points, lines, angles...
+\end_layout
+
+\begin_layout Itemize
+Postulates 5 laws of geometry
+\end_layout
+
+\begin_layout Itemize
+The 5 postulates prove theorems
+\end_layout
+
+\begin_layout Itemize
+ex.
+ opposite angles are equal
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+ex.
+ Interior angles of triangle add to 
+\begin_inset Formula $180^{\circ}$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "b"
+use_parbox 0
+use_makebox 0
+width "45col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Euclid elements book.jpeg
+	lyxscale 50
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Euclid elements oldest.jpg
+	lyxscale 20
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+The Postulates
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "50col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Enumerate
+You can draw a straight line between two points.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+This seems obvious.
+\end_layout
+
+\begin_layout Itemize
+But it implies there are no holes in our space
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+You can extend a straight line as far as you want.
+\end_layout
+
+\begin_layout Enumerate
+You can draw a circle with any center and radius
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Again seems obvious but so does the 13th amendment.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+All right angles are equal
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+The equal rights law of geometry
+\end_layout
+
+\begin_layout Itemize
+Seems obvious in geometry
+\end_layout
+
+\end_deeper
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "b"
+use_parbox 0
+use_makebox 0
+width "45col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Euclid comandments in stone.jpeg
+	lyxscale 10
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Euclid Pleads the 5th
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "50col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Itemize
+Get ready.
+ This one is not so simple.
+\end_layout
+
+\begin_layout Itemize
+5.
+ If a straight line falling on two straight lines
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+makes the interior angles on the same side
+\end_layout
+
+\begin_layout Itemize
+less than two right angles,
+\end_layout
+
+\begin_layout Itemize
+the two straight lines
+\end_layout
+
+\begin_layout Itemize
+if drawn far enough,
+\end_layout
+
+\begin_layout Itemize
+will meet on that side.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+In other words, the lines aren't parallel.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+If the interior angles are both right
+\end_layout
+
+\begin_layout Itemize
+Then the lines are parallel.
+\end_layout
+
+\end_deeper
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "b"
+use_parbox 0
+use_makebox 0
+width "45col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 1200px-Parallel_postulate_en.svg.png
+	lyxscale 30
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Euclid Was a Flat Spacer!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "50col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Itemize
+The 5th postulate is often called the parallel postulate.
+\end_layout
+
+\begin_layout Itemize
+It proves that
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+the interior angles of a triangle is 
+\begin_inset Formula $180^{\circ.}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Alternate interior angles of 
+\begin_inset Formula $\parallel$
+\end_inset
+
+ lines
+\end_layout
+
+\begin_layout Itemize
+unique 
+\begin_inset Formula $\parallel$
+\end_inset
+
+line through a point
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Many tried to prove the 5th
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+But all were unsuccessful
+\end_layout
+
+\begin_layout Itemize
+It is a law of its own.
+\end_layout
+
+\begin_layout Itemize
+Describes geometry on a flat plane.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Geometry class is nothing but Euclid
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "b"
+use_parbox 0
+use_makebox 0
+width "45col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename angle-sum-theorem greek letters.png
+	lyxscale 60
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Euclid Was a Flat Spacer! Exercises!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "50col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Itemize
+Assume the horizontal lines in the diagram are parallel.
+\end_layout
+
+\begin_layout Itemize
+Use the diagram to prove that the sum of the interior angles of a triangle
+ equal 
+\begin_inset Formula $180^{\circ.}$
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "b"
+use_parbox 0
+use_makebox 0
+width "45col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename angle-sum-theorem greek letters.png
+	lyxscale 60
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+
+\end_layout
+
+\end_body
+\end_document
