@@ -5,6 +5,13 @@ nav_order: 1
 has_children: true
 ---
 
-Let $\\frac{a}{b}$ be irriducible.
-<img src="{{ site.baseurl }}/assets/images/Cool soliton collapse.png" alt="basketball girl" width="50%">
+
+{: .text-center}
+# <b>Washington Parks Academy Mathematics Curriculum</b>
+
+{: .text-center}
+## <b>Foundations: Logic to Geometry</b>
+
+
+<img src="{{ site.baseurl }}/assets/images/LogM oilpastel.png" alt="Teacher and students" width="50%">
 

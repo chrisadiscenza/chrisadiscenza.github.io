@@ -5,6 +5,8 @@ nav_order: 2
 has_children: true
 ---
 
+<img src="{{ site.baseurl }}/assets/images/LogM oilpastel.png" alt="basketball girl" width="50%">
+
 This is the intro to the foundations curriculum.
 
 {: .theorem }
