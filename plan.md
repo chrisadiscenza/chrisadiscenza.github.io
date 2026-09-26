@@ -1,7 +1,7 @@
 ---
 title: The Plan
 layout: default
-nav_order: 2
+nav_order: 4
 parent: Home
 has_children: true
 ---
@@ -14,7 +14,7 @@ has_children: true
  </style>
 
 {: .text-center}
-# <b>What's the plan?y</b> 
+# <b>What's the plan?</b> 
 
 {: .text-center}
 ## <b> The Plan</b>
@@ -34,4 +34,4 @@ It minimizes memorization and emphasizes critical thinking.
 
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/LogM oilpastel.png" alt="Teacher and students" width="50%">
+<img src="{{ site.baseurl }}/assets/images/Cool soliton collapse.png" alt="Teacher and students" width="50%">

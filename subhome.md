@@ -1,7 +1,7 @@
 ---
 title: Mission of the Curriculum
 layout: default
-nav_order: 1
+nav_order: 2
 parent: Home
 has_children: true
 ---
