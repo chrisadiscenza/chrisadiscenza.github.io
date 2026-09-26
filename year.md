@@ -7,7 +7,7 @@ has_children: true
 ---
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/IMG_7015.HEIC" alt="Summer Vibes" width="50%">
+<img src="{{ site.baseurl }}/assets/images/IMG_7015.png" alt="Summer Vibes" width="50%">
 
 
 
@@ -72,7 +72,7 @@ Week 10: Relations and Functions! Cartesian product
 
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/IMG_1700.HEIC" alt="Winter is Here" width="50%">
+<img src="{{ site.baseurl }}/assets/images/IMG_1700.png" alt="Winter is Here" width="50%">
 
 
 {: .text-center}
@@ -102,7 +102,7 @@ Week 10: Wiggles and Roots: Fundamental Theorem of Algebra
 
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/IMG_7608.HEIC" alt="Locked In" width="50%">
+<img src="{{ site.baseurl }}/assets/images/IMG_7608.png" alt="Locked In" width="50%">
 
 
 
