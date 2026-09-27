@@ -41,7 +41,7 @@ Week 6: Inventing Negativity, Ask questions, extend to integers!
 Week 7: Addition and Multiplication. Together at last! *Distributive Law
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/IMG_4411.JPG" alt="Cauchy Muffin" width="50%">
+<img src="{{ site.baseurl }}/assets/images/IMG_4425.png" alt="Cauchy Muffin" width="50%">
 
 
 {: .text-center}
