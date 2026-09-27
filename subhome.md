@@ -6,6 +6,18 @@ parent: Home
 has_children: true
 ---
 
+
+
+<style>
+    :root {
+        --content-width: 80%;
+    }
+ </style>
+
+{: .text-center}
+# <b>The Mission of This Curriculum</b> 
+
+
 {: .text-center}
 <img src="{{ site.baseurl }}/assets/images/azores view.png" alt="Azores photo" width="50%">
 
