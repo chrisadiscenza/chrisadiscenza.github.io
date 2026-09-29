@@ -13,7 +13,6 @@ has_children: true
           }
  </style>
 
-
 {: .text-center}
 # <b>Week 1</b> 
 
@@ -26,6 +25,8 @@ has_children: true
 
 {: .text-center}
 ### <b> Day 1</b>
+
+
 
 
 {: .text-center}
