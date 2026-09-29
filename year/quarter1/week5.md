@@ -20,6 +20,8 @@ has_children: true
 {: .text-center}
 ## <b> Daily Schedule</b>
 
+<br>
+
 {: .text-center}
 <img src="{{ site.baseurl }}/assets/images/Set game cards 2.jpg" alt="Summer Vibes" width="50%">
 

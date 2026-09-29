@@ -15,7 +15,7 @@ has_children: true
  </style>
 
 {: .text-center}
-# <b>Week 1</b> 
+# <b>Day 3</b> 
 
 {: .text-center}
 ## <b> Daily Schedule</b>
@@ -24,8 +24,6 @@ has_children: true
 <img src="{{ site.baseurl }}/assets/images/Cauchy bowtie.JPG" alt="Summer Vibes" width="50%">
 
 
-{: .text-center}
-### <b> Day 3</b>
 
 
 {: .text-center}
