@@ -1,5 +1,5 @@
 ---
-title: Contents
+title: Contents of the Curriculum
 layout: default
 nav_order: 3
 parent: Home

@@ -2,7 +2,7 @@
 title: Week 1
 layout: default
 nav_order: 1
-parent: Quarter 1 Weekly Schedule
+parent: Quarter 1
 has_children: true
 ---
 
