@@ -27,7 +27,7 @@ has_children: true
 ### <b> Day 1</b>
 
 
-
+<br>
 
 {: .text-center}
 #### <b> What is math?</b>
