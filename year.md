@@ -26,7 +26,7 @@ has_children: true
 
 Week 0: School polices, procedures, syllabus, assessments 
 
-Week 1: Wanna Play a Game?
+[Week 1: Wanna Play a Game?](/year/quarter1/week1.md)
 
 Week 2 Logic Puzzles and Sets.
 
