@@ -1,7 +1,7 @@
 ---
 title: Day 4
 layout: default
-nav_order: 2
+nav_order: 4
 parent: Week 1
 has_children: true
 ---

@@ -1,7 +1,7 @@
 ---
-title: Week 10
+title: Week 1
 layout: default
-nav_order: 10
+nav_order: 1
 parent: Quarter 1
 has_children: true
 ---
