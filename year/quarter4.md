@@ -1,5 +1,5 @@
 ---
-title: Quarter 4 Weekly Schedule
+title: Quarter 4
 layout: default
 nav_order: 4
 parent: Schedule
