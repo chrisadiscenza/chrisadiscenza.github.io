@@ -1,8 +1,8 @@
 ---
 title: Quarter 1 Weekly Schedule
 layout: default
-nav_order: 2
-parent: year
+nav_order: 1
+parent: Schedule
 has_children: true
 ---
 
