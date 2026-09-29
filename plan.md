@@ -17,6 +17,10 @@ has_children: true
 # <b>What's the plan?</b> 
 
 {: .text-center}
+<img src="{{ site.baseurl }}/assets/images/Cool soliton collapse.png" alt="Teacher and students" width="50%">
+
+
+{: .text-center}
 ## <b> The Plan</b>
 
 
@@ -33,5 +37,3 @@ This allows the students to feel more confident in using these numbers in applic
 It minimizes memorization and emphasizes critical thinking.
 
 
-{: .text-center}
-<img src="{{ site.baseurl }}/assets/images/Cool soliton collapse.png" alt="Teacher and students" width="50%">
