@@ -30,7 +30,7 @@ has_children: true
 <br>
 
 {: .text-center}
-#### <b> What is math?</b>
+## <b> What is math?</b>
 
 • Is it a science? Is it art?
 
