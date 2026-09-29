@@ -21,34 +21,18 @@ has_children: true
 ## <b> Daily Schedule</b>
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/Cauchy bowtie.JPG" alt="Summer Vibes" width="50%">
+<img src="{{ site.baseurl }}/assets/images/Set game cards 2.jpg" alt="Summer Vibes" width="50%">
 
 
 {: .text-center}
-### <b> Day 1</b>
+### <b> Wanna Play a Game?</b>
 
+• Day 1: Introduction to “What is Math?” This is very exploratory. Let students discuss in groups. Questions: Are there rules? Is it a game? Is it discovered or invented? What isn't math? 
 
-{: .text-center}
-#### <b> What is math?</b>
+• Day 2: Have students play Set Game in groups. This will take a moment for them to get the hang of it.
 
-• Is it a science? Is it art?
+• Day 3: Start with 10-15 min of Set game in groups. Discuss the different traits on the cards. Strategies for finding a set.
 
-– If its a science does that mean math is discovered?
+• Day 4: CLR game with toy animals instead of money or tokens. Have students keep track of how many rounds the game lasted. 
 
-– If its like art does that mean its created by humans or invented?
-
-– Have students write in their notbooks what they think about this. 
-
-– Group activity: Have them discuss it with their groups. 
-
-– Have the students think about and discuss: What is the first thing you would discover or invent about math?
-
-∗ Use examples: dinosaur bones, discovering elements, atoms. Inventing requires parts, ingredients, materials
-
-∗ What ideas do you need to discover or build numbers, triangles, addition,...
-
-– The idea is that you want the students to think about the foundations of math. What are the fundamental concepts.
-
-– The contemporary view is that math is built on the foundation of concepts: sets and categories. While these have detailed rigorous definitions, we will not delve into them beyond giving the students taste.
-
-– This first-day lesson can be used every year to recall and update the students thoughts on “dicovered vs. invented” and dive a little deeper into sets and categories.
+• Day 5: Discussion and observations from the games. Patterns, strategies?
