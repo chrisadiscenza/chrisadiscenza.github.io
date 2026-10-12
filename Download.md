@@ -22,7 +22,8 @@ has_children: true
 
 Worksheets:
 
-Quarter 1 Week 1 worksheet
+ [Quarter 1 Week 1 worksheet](/assets/pdfs/Q1_W1_Worksheet_1.pdf)
+
 
 Quarter 1 Week 2 worksheet
 
@@ -40,7 +41,7 @@ Quarter 1 Week 8 worksheet
 
 Logic Puzzles:
 
-Kitten or Tiger Trials
+[Kitten or Tiger Trials](/assets/pdfs/Logic Puzzle signs 8 trials.pdf)
 
 
 Schedule for the year
