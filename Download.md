@@ -23,15 +23,23 @@ has_children: true
 Worksheets:
 
 Quarter 1 Week 1 worksheet
+
 Quarter 1 Week 2 worksheet
+
 Quarter 1 Week 3 worksheet
+
 Quarter 1 Week 4 worksheet
+
 Quarter 1 Week 5 worksheet
+
 Quarter 1 Week 6 worksheet
+
 Quarter 1 Week 7 worksheet
+
 Quarter 1 Week 8 worksheet
 
 Logic Puzzles:
+
 Kitten or Tiger Trials
 
 
@@ -39,8 +47,13 @@ Schedule for the year
 
 Quarter pacing schedules
 
+
 Quarter 1
+
 Quarter 2
+
 Quarter 3
+
 Quarter 4
+
 
