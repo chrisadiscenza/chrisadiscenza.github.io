@@ -29,24 +29,16 @@ has_children: true
 {: .text-center}
 #### <b> Let's Play a Game</b>
 
-• Is it a science? Is it art?
+1. How many green diamond cards are in the Set Game?
 
-– If its a science does that mean math is discovered?
+2. How many total cards are in the Set Game? In other words, what is the card-inality of this card game?
 
-– If its like art does that mean its created by humans or invented?
+3. Supose you have two Set cards: single solid red squiggle and a shaded purple double diamond. What third card would complete this set?
 
-– Have students write in their notbooks what they think about this. 
+4. Explain why each of these do not form Sets in the Set Game. 
 
-– Group activity: Have them discuss it with their groups. 
+5. How many rounds did the CLR game last until somebody won? 
 
-– Have the students think about and discuss: What is the first thing you would discover or invent about math?
+6. Do you think the CLR game could last forever or does it always end?
 
-∗ Use examples: dinosaur bones, discovering elements, atoms. Inventing requires parts, ingredients, materials
-
-∗ What ideas do you need to discover or build numbers, triangles, addition,...
-
-– The idea is that you want the students to think about the foundations of math. What are the fundamental concepts.
-
-– The contemporary view is that math is built on the foundation of concepts: sets and categories. While these have detailed rigorous definitions, we will not delve into them beyond giving the students taste.
-
-– This first-day lesson can be used every year to recall and update the students thoughts on “dicovered vs. invented” and dive a little deeper into sets and categories.
+7. Do you think there are any strategies to playing CLR?

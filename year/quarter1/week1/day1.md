@@ -47,8 +47,10 @@ has_children: true
 
 ∗ What ideas do you need to discover or build numbers, triangles, addition,...
 
-– The idea is that you want the students to think about the foundations of math. What are the fundamental concepts.
+– The idea is that you want the students to think about the foundations of math. What are the fundamental concepts that are used throughout arithmetic, algebra, geometry, statistics, and calculus? What is the underlying logic? What are the ingredients and tools needed to create numbers and their arithmetic operations?
 
 – The contemporary view is that math is built on the foundation of concepts: sets and categories. While these have detailed rigorous definitions, we will not delve into them beyond giving the students taste.
+
+– The question about whether math is discovered or invented goes back to Plato and possibly earlier when Euclid wrote his 5 axioms for geometry in his book, The Elements. Plato thought for instance that triangles existed in perfection in a non physical "realm of forms". But later in the 20th century, mathematicians used an axiomatic approach to creating numbers and the foundations of mathematics. These axioms can be treated more like rules of a game or constitutional laws which are human inventions. 
 
 – This first-day lesson can be used every year to recall and update the students thoughts on “dicovered vs. invented” and dive a little deeper into sets and categories.
