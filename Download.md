@@ -44,7 +44,7 @@ Logic Puzzles:
 [Kitten or Tiger Trials](/assets/pdfs/Logic Puzzle signs 8 trials.pdf)
 
 
-Schedule for the year
+[Schedule for the year](/assets/pdfs/Foundations_curriculum_year_schedule.pdf)
 
 Quarter pacing schedules
 
