@@ -38,3 +38,5 @@ has_children: true
 • Day 4: CLR game with toy animals instead of money or tokens. Have students keep track of how many rounds the game lasted. 
 
 • Day 5: Discussion and observations from the games. Patterns, strategies?
+
+[worksheet](/assets/pdfs/Q1_W1_Worksheet_1.pdf)
