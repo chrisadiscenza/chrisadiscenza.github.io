@@ -15,7 +15,7 @@ has_children: true
  </style>
 
 {: .text-center}
-# <b>Week 1</b> 
+# <b>Week 2</b> 
 
 {: .text-center}
 ## <b> Daily Schedule</b>
@@ -23,18 +23,26 @@ has_children: true
 <br>
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/Set game cards 2.jpg" alt="Summer Vibes" width="50%">
+<img src="{{ site.baseurl }}/assets/images/IMG_7334.png" alt="Summer Vibes" width="50%">
 
 
 {: .text-center}
-### <b> Wanna Play a Game?</b>
+### <b> Logic Puzzles and Sets?</b>
 
-• Day 1: Introduction to “What is Math?” This is very exploratory. Let students discuss in groups. Questions: Are there rules? Is it a game? Is it discovered or invented? What isn't math? 
 
-• Day 2: Have students play Set Game in groups. This will take a moment for them to get the hang of it.
 
-• Day 3: Start with 10-15 min of Set game in groups. Discuss the different traits on the cards. Strategies for finding a set.
+• Day 1: Introduction to “What is logic?” How do we think and make decuctions? 
 
-• Day 4: CLR game with toy animals instead of money or tokens. Have students keep track of how many rounds the game lasted. 
+– Dicuss If - then statements with examples. Have student groups create their own. 
 
-• Day 5: Discussion and observations from the games. Patterns, strategies?
+– How do we draw conclusions and make deductions? Discuss modus ponens (Power Rule) with examples.
+
+• Day 2: Group work logic puzzles [worksheet](/assets/pdfs/Q1_W1_Worksheet_2_logic.pdf) handout. Discuss “and”, “or”, “not”. Diagram the path of deduction.
+
+• Day 3: Discuss sets and how to describe them. Define the cardinality of a set. 
+
+– Have students group discuss set examples. Union, intersection -Venn diagrams
+
+• Day 4: Empty set and complement of a set. Break their brain with: is the set of cats in it's complement?
+
+• Day 5: Introduce the concepts of subsets and infinite sets.

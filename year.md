@@ -28,7 +28,7 @@ Week 0: School polices, procedures, syllabus, assessments
 
 [Week 1: Wanna Play a Game?](https://chrisadiscenza.github.io/year/quarter1/week1.html)
 
-Week 2 Logic Puzzles and Sets.
+Week 2 Logic Puzzles and Sets.[Week 1: Wanna Play a Game?](https://chrisadiscenza.github.io/year/quarter1/week2.html)
 
 Week 3: Square Game I. Setup and learning to play.
 
