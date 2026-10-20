@@ -37,7 +37,7 @@ has_children: true
 
 – How do we draw conclusions and make deductions? Discuss modus ponens (Power Rule) with examples.
 
-• Day 2: Group work logic puzzles [worksheet](/assets/pdfs/Q1_W1_Worksheet_2_logic.pdf) handout. Discuss “and”, “or”, “not”. Diagram the path of deduction.
+• Day 2: Group work logic puzzles [worksheet](/assets/pdfs/Q1_W2_Worksheet_2_logic.pdf) handout. Discuss “and”, “or”, “not”. Diagram the path of deduction.
 
 • Day 3: Discuss sets and how to describe them. Define the cardinality of a set. 
 
