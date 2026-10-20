@@ -30,7 +30,7 @@ has_children: true
 {: .text-center}
 
 
-####<b>LCR Game<b>
+#### <b>LCR Game<b>
 
 Left Center Right is a simple straightforward game where each player starts with the same number of tokens and takes turns rolling dice that indicate what the player should do with their tokens. have the students choose a starting player in which that players has the respionsibility of recording the total number of rounds until the game ends. This data is important for comparisons with multiple games. Each player will initially roll three dice and distribute one token per die. Rolling an L indicates giving a token to the player on their left, rolling an R indicates giving a tokem to the right, and C indicates that they give a token to the center of the table. Finally, rolling a dot indicates that the player does kepps their token.  With students it is helpful to introduce the rule that any player reicieving token must say: "I appreciate you". This seemingly silly gesture helps to keep the atmosphere pleasant.
 
