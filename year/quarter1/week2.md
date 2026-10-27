@@ -33,11 +33,13 @@ has_children: true
 
 • Day 1: Introduction to “What is logic?” How do we think and make decuctions? 
 
-– Dicuss If - then statements with examples. Have student groups create their own. 
+– Dicuss If - then statements with examples. Have student groups create their own. Example: If it rains then it's wet outside.
 
 – How do we draw conclusions and make deductions? Discuss modus ponens (Power Rule) with examples.
 
-• Day 2: Group work logic puzzles [worksheet](/assets/pdfs/Q1_W2_Worksheet_2_logic.pdf) handout. Discuss “and”, “or”, “not”. Diagram the path of deduction.
+– Group work logic puzzles [worksheet](/assets/pdfs/Q1_W2_Worksheet_2_logic.pdf) handout. Discuss “and”, “or”, “not”. Diagram the path of deduction.
+
+• Day 2: Discuss the rules of deduction: Power Rule, And Rule, Or Rule. Discuss symbols: $A \implies B$, $A \land B$, $A \lor B$ $\neg A$
 
 • Day 3: Discuss sets and how to describe them. Define the cardinality of a set. 
 
