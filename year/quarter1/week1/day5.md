@@ -21,7 +21,7 @@ has_children: true
 ## <b> The Daily is in the Details</b>
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/Cauchy bowtie.JPG" alt="Summer Vibes" width="50%">
+<img src="{{ site.baseurl }}/assets/images/IMG_8283.JPG" alt="Summer Vibes" width="50%">
 
 
 
