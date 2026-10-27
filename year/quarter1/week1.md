@@ -35,8 +35,8 @@ has_children: true
 
 • Day 3: Start with 10-15 min of Set game in groups. Discuss the different traits on the cards. Strategies for finding a set.
 
-• Day 4: CLR game with toy animals instead of money or tokens. Have students keep track of how many rounds the game lasted. 
+• Day 4: LCR Game. Have students keep track of the number of rounds the game lasted and player number. This game is an example of a dynamical system.
 
-• Day 5: Discussion and observations from the games. Patterns, strategies?
+• Day 5: Discussion and observations from the games. Have the students look for patterns and  think about the possibility strategies.
 
 [worksheet](/assets/pdfs/Q1_W1_Worksheet_1.pdf)
