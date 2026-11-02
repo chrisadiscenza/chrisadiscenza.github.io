@@ -27,7 +27,7 @@ has_children: true
 
 
 {: .text-center}
-### <b> Logic Puzzles and Sets?</b>
+### <b> Logic Puzzles and Sets</b>
 
 
 

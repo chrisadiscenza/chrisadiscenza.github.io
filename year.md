@@ -96,11 +96,11 @@ Week 5: Polynomial Land! Introduce adding powers of $x$. Even powers, odd powers
 
 Spring Break Week: When? Where? Do I bring a beach towel?
 
-Week 6: If you like it, put a ring on it!Mult, adding, and factoring polynomials
+Week 6: If you like it, put a ring on it! Multiplication, addition, and factoring polynomials
 
 Week 7: Polynomial Properties: Roots, End Behavioral Issues
 
-Week 8: Smile or Frown: What It Means to Be a Quadratic All things parabola, roots, vertex, shifts
+Week 8: Smile or Frown: What It Means to Be a Quadratic. All things parabola, roots, vertex, shifts and how!
 
 Week 9: General polynomial graphs, and estimation
 
