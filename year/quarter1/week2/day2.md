@@ -14,7 +14,7 @@ has_children: true
  </style>
 
 {: .text-center}
-# <b>Day 1</b> 
+# <b>Day 2</b> 
 
 {: .text-center}
 ## <b> Daily Schedule</b>
@@ -51,7 +51,7 @@ Syntax: The rules of deduction. Notice that there is no mention of the statement
 
 Converse: $B \implies A$ Have the students write an example sentence of this. Then have them discuss how it the converse is different from $A \implies B$. A cause implies effect example makes it obvious that they are different. 
 
-Contrapositive: $\neg B \imples \negA$ Again,  have them write an example sentence for this and compare it to $A \implies B$. Have them notice that the contrapositive is an equivalent statement to $A \implies B$. 
+Contrapositive: $\neg B \implies \neg A $ Again,  have them write an example sentence for this and compare it to $A \implies B$. Have them notice that the contrapositive is an equivalent statement to $A \implies B$. 
 
 
 
