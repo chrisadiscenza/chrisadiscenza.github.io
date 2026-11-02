@@ -28,17 +28,22 @@ Week 0: School polices, procedures, syllabus, assessments
 
 [Week 1: Wanna Play a Game?](https://chrisadiscenza.github.io/year/quarter1/week1.html)
 
-Week 2 Logic Puzzles and Sets.[Week 1: Wanna Play a Game?](https://chrisadiscenza.github.io/year/quarter1/week2.html)
+[Week 2: Logic Puzzles and Sets.](https://chrisadiscenza.github.io/year/quarter1/week2.html)
 
-Week 3: Square Game I. Setup and learning to play.
+[Week 3: Square Game I.](https://chrisadiscenza.github.io/year/quarter1/week3.html)
+ Setup and learning to play.
 
-Week 4: Square Game II: Start solving equations. Asking questions. different bases? This was they are familiar and recognize the importance of base 10 when learning decimal representation.
+[Week 4: Square Game II.](https://chrisadiscenza.github.io/year/quarter1/week4.html)
+ Start solving equations. Asking questions. different bases? This was they are familiar and recognize the importance of base 10 when learning decimal representation.
 
-Week 5: Build Natural Numbers, Addition Multiplication. 
+[Week 5: Build the Natural Numbers.](https://chrisadiscenza.github.io/year/quarter1/week5.html)
+ Addition and Multiplication of natural numbers. 
 
-Week 6: Inventing Negativity, Ask questions, extend to integers! 
+[Week 6: Inventing Negativity.](https://chrisadiscenza.github.io/year/quarter1/week6.html)
+ Ask questions, extend the numberline to the integers! 
 
-Week 7: Addition and Multiplication. Together at last! *Distributive Law
+[Week 7: Addition and Multiplication. Together at last!](https://chrisadiscenza.github.io/year/quarter1/week7.html)
+ The Distributive Law brings consistency to the number land.  
 
 {: .text-center}
 <img src="{{ site.baseurl }}/assets/images/IMG_4425.png" alt="Cauchy Muffin" width="50%">
