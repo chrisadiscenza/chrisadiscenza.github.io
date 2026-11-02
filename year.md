@@ -94,7 +94,7 @@ Week 4: More linear! Adding and multiplying lines (algebra of functions)
 
 Week 5: Polynomial Land! Introduce adding powers of $x$. Even powers, odd powers
 
-Spring Break Week: When?
+Spring Break Week: When? Where? Do I bring a beach towel?
 
 Week 6: If you like it, put a ring on it!Mult, adding, and factoring polynomials
 
