@@ -12,10 +12,10 @@ has_children: true
  </style>
 
 {: .text-center}
-# <b>Washington Parks Academy</b> 
+# <b>Math Foundations</b> 
 
 {: .text-center}
-## <b> Middle School Mathematics Curriculum</b>
+## <b>A Middle School Mathematics Curriculum</b>
 
 
 
