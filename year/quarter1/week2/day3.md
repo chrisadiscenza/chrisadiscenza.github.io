@@ -35,7 +35,7 @@ has_children: true
 
  Set: A <b>set</b> is a collection of things that we call elements. We use brackets for set notation. 
  
- For example we write the set containing the first four letters as $A=\left\{ a, b, c, d\right\}$. 
+ For example we write the set containing the first four letters as $A=\left{ a, b, c, d\right}$. 
 
 
 
@@ -43,7 +43,7 @@ has_children: true
 
  We write $b\in A$ to mean that $b$ is an element of the set $A$. 
 
- <b>Empty Set</b>: The set with no elements. We write $\left\{ a, b, c, d\right\}$ Or simply $\emptyset$.
+ <b>Empty Set</b>: The set with no elements. We write $\left{ a, b, c, d \right}$ Or simply $\emptyset$.
 
 <b>Union</b>: The set of elements in $A$ <b>or</b> $B$ for any two sets $A, B$. Looesly speaking, the union of two sets is the  collection of elements in $A$ combined with the elements in $B$. Note the key word: or used in the definition. As discussed in the logic section, the word <b>or</b> carries less information and that shows up here as the union of two sets is less specific about which elements are contained in it.
 
@@ -55,7 +55,7 @@ This set can get complicated and out of hand the more creatively we think about 
 
 This might seem weird but its perfectly ok. You might just need to reread it a few times. Now it becomes not ok when you take the above discussion beyond the set of cats and ask about the set of all sets. This broke math for a few years until some rules and restrictions were put in place. This is a story for another class that goes beyond our discussion. 
 
-<b>subset</b>: A subset $B$ of $A$ means that any element in $B$ <b>implies</b> it's an element of $A$. 
+<b>Subset</b>: A subset $B$ of $A$ means that any element in $B$ <b>implies</b> it's an element of $A$. 
 
 <b>Cardinality</b>: The number of elements in a set. 
 
