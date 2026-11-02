@@ -20,7 +20,7 @@ has_children: true
 ## <b> Daily Schedule</b>
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/Cauchy bowtie.JPG" alt="Summer Vibes" width="50%">
+<img src="{{ site.baseurl }}/assets/images/Cauchy in basket.JPG" alt="Summer Vibes" width="50%">
 
 
 
