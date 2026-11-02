@@ -26,14 +26,15 @@ has_children: true
 
 This curriculum establishes a foundation of mathematics for the student to understand the concepts.
 
+It minimizes memorization and emphasizes critical thinking.
+
 It encourages the idea that concepts are built on “first principles”. 
 
 It builds the foundations of mathematics by “Asking questions”. The students will discover questions that have no solution within the context of the discussion. This will allow them to construct additional mathematical concepts that answer the questions. 
 
 In particular this will allow the students experience the construction of the natural numbers, negative numbers, rational numbers, irrational numbers, and even imaginary numbers without any mystery. 
 
-This allows the students to feel more confident in using these numbers in applications. 
+Understanding the properties of these numbers will give the students the ability solve equations and analyze functions for solving problems.
 
-It minimizes memorization and emphasizes critical thinking.
 
 
