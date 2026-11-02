@@ -29,7 +29,7 @@ has_children: true
 <br>
 
 {: .text-center}
-## <b> What is a set</b>
+## <b> What is a set?</b>
 
 <b>Definitions </b>
 
