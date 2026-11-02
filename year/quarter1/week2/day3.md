@@ -35,7 +35,7 @@ has_children: true
 
  Set: A <b>set</b> is a collection of things that we call elements. We use brackets for set notation. 
  
- For example we write the set containing the first four letters as $A=\left{ a, b, c, d\right}$. 
+ For example we write the set containing the first four letters as $A=\lbrace a, b, c, d\rbrace $. 
 
 
 
