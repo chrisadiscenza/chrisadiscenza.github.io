@@ -43,7 +43,7 @@ has_children: true
 
  We write $b\in A$ to mean that $b$ is an element of the set $A$. 
 
- <b>Empty Set</b>: The set with no elements. We write $\left{ a, b, c, d \right}$ Or simply $\emptyset$.
+ <b>Empty Set</b>: The set with no elements. We write $\lbrace a, b, c, d \rbrace$ Or simply $\emptyset$.
 
 <b>Union</b>: The set of elements in $A$ <b>or</b> $B$ for any two sets $A, B$. Looesly speaking, the union of two sets is the  collection of elements in $A$ combined with the elements in $B$. Note the key word: or used in the definition. As discussed in the logic section, the word <b>or</b> carries less information and that shows up here as the union of two sets is less specific about which elements are contained in it.
 
