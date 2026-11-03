@@ -14,7 +14,7 @@ has_children: true
  </style>
 
 {: .text-center}
-# <b>Day 1</b> 
+# <b>Day 5</b> 
 
 {: .text-center}
 ## <b> Daily Schedule</b>
@@ -29,11 +29,11 @@ has_children: true
 <br>
 
 {: .text-center}
-## <b> What is math?</b>
+## <b> What is Infinity?</b>
 
-• Is it a science? Is it art?
+• Infinite sets
 
-– If its a science does that mean math is discovered?
+– Set of even numbers vs the set of whole numbers
 
 – If its like art does that mean its created by humans or invented?
 
