@@ -33,10 +33,9 @@ has_children: true
 
 <b>Definitions </b>
 
- Set: A <b>set</b> is a collection of things that we call elements. We use brackets for set notation. 
+ <b>Set</b>: A <b>set</b> is a collection of things specified by listing them or by a rule that describes the contents of the set. We use brackets for set notation. 
  
  For example we write the set containing the first four letters as $A=\lbrace a, b, c, d\rbrace $. 
-
 
 
  <b>Elements</b>: The things contained in a set.
