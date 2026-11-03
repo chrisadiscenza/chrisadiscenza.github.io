@@ -37,7 +37,7 @@ has_children: true
 
 – How do we draw conclusions and make deductions? Discuss modus ponens (Power Rule) with examples.
 
-– Group work logic puzzles [worksheet](/assets/pdfs/Q1_W2_Worksheet_2_logic.pdf) handout. Discuss “and”, “or”, “not”. Diagram the path of deduction.
+– Group work: logic puzzles [worksheet](/assets/pdfs/Q1_W2_Worksheet_2_logic.pdf) handout. Discuss “and”, “or”, “not”. Diagram the path of deduction.
 
 • Day 2: Discuss the rules of deduction: Power Rule, And Rule, Or Rule. Discuss symbols: $A \implies B$, $A \land B$, $A \lor B$ $\neg A$
 
