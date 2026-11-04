@@ -39,7 +39,7 @@ has_children: true
 
 – Perform rotation combinations and have studnets create a table of this.
 
-• Day 2: Discuss cardinality of a set. Use physical boxes/bins, pennies to demonstrate sets within sets. Use print outs of \emptyset,\{,\}.
+• Day 2: Discuss cardinality of a set. Use physical boxes/bins, pennies to demonstrate sets within sets. Use print outs of $\emptyset,\lbrace,\rbrace$.
 
 • Day 3: Introduce successor algorithm. This will be difficult. Use tangibles to make it less abstract. 
 

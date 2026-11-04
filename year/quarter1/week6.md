@@ -15,7 +15,7 @@ has_children: true
  </style>
 
 {: .text-center}
-# <b>Week 1</b> 
+# <b>Week 6</b> 
 
 {: .text-center}
 ## <b> Daily Schedule</b>
@@ -23,18 +23,42 @@ has_children: true
 <br>
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/Set game cards 2.jpg" alt="Summer Vibes" width="50%">
+<img src="{{ site.baseurl }}/assets/images/IMG_7451.png" alt="Concerned Duck" width="50%">
 
 
 {: .text-center}
-### <b> Wanna Play a Game?</b>
+### <b>  Inventing Negativity :'( </b>
 
-• Day 1: Introduction to “What is Math?” This is very exploratory. Let students discuss in groups. Questions: Are there rules? Is it a game? Is it discovered or invented? What isn't math? 
+• Day 1: Introduce addition in a tangible counting way. 
 
-• Day 2: Have students play Set Game in groups. This will take a moment for them to get the hang of it.
+– Avoid trying to use the set definition of addition. It is too involved and complicated. It is more of a curiosity than a contribution to understanding. 
 
-• Day 3: Start with 10-15 min of Set game in groups. Discuss the different traits on the cards. Strategies for finding a set.
+– We will use an operation approach like the square game: combining two things yields a new thing. 
 
-• Day 4: CLR game with toy animals instead of money or tokens. Have students keep track of how many rounds the game lasted. 
+– Students of course are already familiar with addition of natural numbers. Point out properties similar to square game. 
 
-• Day 5: Discussion and observations from the games. Patterns, strategies?
+– Ask questions. Ex. $5+?=11,0+?=7...$ Have students create their own examples.
+
+– Then ask examples with no solution in the natural numbers: $5+?=0,8+?=3...$ Have students create their own examples.
+
+• Day 2: Continue with no solution examples. Discuss how to find a solution. How is this resolved in sports? In government?
+
+– Create a new type of number that solves these problems. Call them negative numbers. 
+
+– Their whole purpose is that they undo addition.
+
+• Day 3: Introduce the visual integer experience: the number line! Discuss distance on the number line. This is the concept of absolute value.
+
+– Have students create and solve problems involving addition of integers on the number line. 
+
+– Subtraction is shorthand, slang. Practice adding two negative numbers. Ex. walking to the left on the number line. 
+
+• Day 4: Word problems with integers. Active movement games like red light - green light with addition integer number of steps.
+
+• Day 5: Introduce the plane
+
+– Plotting points \left(x,y\right) on a graph. 
+
+– Examples: North, South, addresses in a city.
+
+– Examples: Latitude, Longitude 
