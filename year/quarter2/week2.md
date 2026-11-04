@@ -23,44 +23,46 @@ has_children: true
 <br>
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/IMG_7451.png" alt="Concerned Duck" width="50%">
+<img src="{{ site.baseurl }}/assets/images/IMG_7125.png" alt="Down the street" width="50%">
 
 
 {: .text-center}
-### <b>  Multiplied We Stand. Divided We Fraction! </b>
+### <b> Fraction & Fun! </b>
 
-• Day 1:Ask multiplication questions that don't yet have answers.
 
-– What number solves 3x=1?
+• Day 1:This will be one of the most important lessons they should learn.
 
-– If we want to “undo” the multiplication by 3 we have to invent a new number that is the multiplicative inverse of 3.
+– Fraction addition. 
 
-– Point out properties similar to square game.The concept of an inverse, the “undo” action. 
+– Emphasize that the denominator is specifies the type of fraction. i.e. Two Thirds, Three Fourths. Like apples and oranges. The numerator is the amount.
 
-– Ask questions. Ex. 5x=10,0x=7...Have students create their own examples.
+– We can only add same types of fractions. 
 
-– Then ask examples with no solution in the natural numbers: 5x=4,8x=5...Have students create their own examples.
+– Therefore we must makes the fractions into the same type.
 
-• Day 2: Rationals on the number line.
+– Discuss equivalent fractions: \frac{1}{2}=\frac{2}{4}=\frac{3}{6}...
 
-– Numerator, denominator: which is bigger?
+• Day 2: Common denominator algorithm. 
 
-– Where are they on the number line?
+– Multiply each fraction by “one” but in a strategic form \frac{n}{n}.
 
-• Day 3:Infinite zoom!
+– Have students make an adding recipe using the denominators from the fractions.
 
-– Zoom into zero: \frac{1}{10},\frac{1}{100},\frac{1}{1000},\frac{1}{10,000}
+• Day 3:Fraction additon practice
 
-– Infinitely small: measuring with a rule examples.
+– Lots of practice
 
-– Introduce decimal notation. Discuss general base 10 system.
+– Groups worksheets for this section.
 
-• Day 4: Word problems and applications
+• Day 4: Fraction Multiplication
 
-– Have students work in groups on worksheets for this section.
+– Group worksheets for this section.
 
-– Have students create their own word problems in groups
+• Day 5: Review what they learned this week.
 
+– Discuss properties and applications.
+
+– Emphasize how we got here. 
 • Day 5: Review the rationals and what they learned this week.
 
 – Discuss properties and applications.

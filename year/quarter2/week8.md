@@ -23,7 +23,7 @@ has_children: true
 <br>
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/IMG_1430.jpg" alt="Concerned Duck" width="50%">
+<img src="{{ site.baseurl }}/assets/images/IMG_1430.jpg" alt="Is i in the room with us?" width="50%">
 
 
 {: .text-center}

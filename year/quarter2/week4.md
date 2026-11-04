@@ -23,46 +23,52 @@ has_children: true
 <br>
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/IMG_7451.png" alt="Concerned Duck" width="50%">
+<img src="{{ site.baseurl }}/assets/images/IMG_9587.png" alt="Concerned Duck" width="50%">
 
 
 {: .text-center}
-### <b>  Multiplied We Stand. Divided We Fraction! </b>
+### <b>   This lesson is $30\%$ perseverance, $40\%$ patience, and $50\%$ miscellaneous! </b>
 
-• Day 1:Ask multiplication questions that don't yet have answers.
+• Day 1:Percentage 
 
-– What number solves 3x=1?
+Discuss the simplicity of it: $n\%=\frac{n}{100}$
 
-– If we want to “undo” the multiplication by 3 we have to invent a new number that is the multiplicative inverse of 3.
+– Physical examples: 
 
-– Point out properties similar to square game.The concept of an inverse, the “undo” action. 
+– Word problems 
 
-– Ask questions. Ex. 5x=10,0x=7...Have students create their own examples.
+– Use penny examples/ activities to build familiar intuition about percents
 
-– Then ask examples with no solution in the natural numbers: 5x=4,8x=5...Have students create their own examples.
+– Use pie charts and other graph visuals.
 
-• Day 2: Rationals on the number line.
+– Discuss “over percentages” like $150\%, 200\%...$
 
-– Numerator, denominator: which is bigger?
+• Day 2: Word problem examples
 
-– Where are they on the number line?
+– Have students discuss a recipe in terms of ingredient percentages.
 
-• Day 3:Infinite zoom!
+– Talk about nutrition labels
 
-– Zoom into zero: \frac{1}{10},\frac{1}{100},\frac{1}{1000},\frac{1}{10,000}
+– Discuss percent statistics from news articles
 
-– Infinitely small: measuring with a rule examples.
+• Day 3:Banking examples (foreshadowing to exponential growth/decay )
 
-– Introduce decimal notation. Discuss general base 10 system.
+– Interest rates
 
-• Day 4: Word problems and applications
+– Compound interest 
 
-– Have students work in groups on worksheets for this section.
+– Percent decay each day or month
 
-– Have students create their own word problems in groups
+• Day 4: Continue with rates
 
-• Day 5: Review the rationals and what they learned this week.
+– Conversion of any fraction to a percent: e.g. exam scores
+
+– Percent increase/ decrease
+
+– Slope on a graph
+
+• Day 5: Review what they learned this week.
 
 – Discuss properties and applications.
 
-– Emphasize how we got here. We asked questions that didn't have answers. We created answers.
+– Emphasize how we got here.

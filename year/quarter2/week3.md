@@ -23,46 +23,44 @@ has_children: true
 <br>
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/IMG_7451.png" alt="Concerned Duck" width="50%">
+<img src="{{ site.baseurl }}/assets/images/IMG_6986.png" alt="Ferns" width="50%">
 
 
 {: .text-center}
-### <b>  Multiplied We Stand. Divided We Fraction! </b>
+### <b>  Ratios are Underrated </b>
 
-• Day 1:Ask multiplication questions that don't yet have answers.
+• Day 1:Ratios and proportions
 
-– What number solves 3x=1?
+– Examples in recipes
 
-– If we want to “undo” the multiplication by 3 we have to invent a new number that is the multiplicative inverse of 3.
+– Physical examples
 
-– Point out properties similar to square game.The concept of an inverse, the “undo” action. 
+– Flagpole to person height and shadows. Shadow reckoning!
 
-– Ask questions. Ex. 5x=10,0x=7...Have students create their own examples.
+– Use pie charts and other graph visuals.
 
-– Then ask examples with no solution in the natural numbers: 5x=4,8x=5...Have students create their own examples.
+• Day 2: Word problem examples
 
-• Day 2: Rationals on the number line.
+– Have students make a recipe and then modify it for more/less servings.
 
-– Numerator, denominator: which is bigger?
+• Day 3:Rectangle, Triangle proportions
 
-– Where are they on the number line?
+– Rectangle proportions examples: sides and area
 
-• Day 3:Infinite zoom!
+– Triangle proportions: sides and area
 
-– Zoom into zero: \frac{1}{10},\frac{1}{100},\frac{1}{1000},\frac{1}{10,000}
+– Word problem examples
 
-– Infinitely small: measuring with a rule examples.
+• Day 4: Rates
 
-– Introduce decimal notation. Discuss general base 10 system.
+– Speed examples
 
-• Day 4: Word problems and applications
+– Work Work Work Work Work Work: Money per hour examples
 
-– Have students work in groups on worksheets for this section.
+– Slope on a graph
 
-– Have students create their own word problems in groups
-
-• Day 5: Review the rationals and what they learned this week.
+• Day 5: Review what they learned this week.
 
 – Discuss properties and applications.
 
-– Emphasize how we got here. We asked questions that didn't have answers. We created answers.
+– Emphasize how we got here.
