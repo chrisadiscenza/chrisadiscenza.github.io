@@ -27,7 +27,7 @@ has_children: true
 
 
 {: .text-center}
-### <b> Wanna Play a Game?</b>
+### <b> All Natural. No Additives.</b>
 
 •• This lesson is going to be tough. But you got this.
 

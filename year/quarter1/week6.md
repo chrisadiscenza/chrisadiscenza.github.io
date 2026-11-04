@@ -57,7 +57,7 @@ has_children: true
 
 • Day 5: Introduce the plane
 
-– Plotting points \left(x,y\right) on a graph. 
+– Plotting points $\left( x,y\right)$ on a graph. 
 
 – Examples: North, South, addresses in a city.
 

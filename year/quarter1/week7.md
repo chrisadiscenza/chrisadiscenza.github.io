@@ -15,7 +15,7 @@ has_children: true
  </style>
 
 {: .text-center}
-# <b>Week 1</b> 
+# <b>Week 7</b> 
 
 {: .text-center}
 ## <b> Daily Schedule</b>
@@ -27,14 +27,34 @@ has_children: true
 
 
 {: .text-center}
-### <b> Wanna Play a Game?</b>
+### <b> Integer Land!</b>
 
-• Day 1: Introduction to “What is Math?” This is very exploratory. Let students discuss in groups. Questions: Are there rules? Is it a game? Is it discovered or invented? What isn't math? 
+• Day 1: Introduce Multiplication
 
-• Day 2: Have students play Set Game in groups. This will take a moment for them to get the hang of it.
+– Use examples: number of cards in the SET game, number of students using rows of desks.
 
-• Day 3: Start with 10-15 min of Set game in groups. Discuss the different traits on the cards. Strategies for finding a set.
+– Number of tiles also leads to the familiarity that 
 
-• Day 4: CLR game with toy animals instead of money or tokens. Have students keep track of how many rounds the game lasted. 
+– Students of course are already familiar with addition of natural numbers. Point out properties similar to square game.
 
-• Day 5: Discussion and observations from the games. Patterns, strategies?
+– Have students create their own examples.
+
+• Day 2: Distributive Law
+
+– This is one of the most important laws in math.
+
+– This can be illustrated by multiplication using different groupings.
+
+• Day 3: Word problems
+
+– Have students create and solve problems involving multiplication of integers on the number line.
+
+– Application problems
+
+• Day 4: Groups in groups. The properties of addition and multiplication. 
+
+• Day 5: Review the integers and what they learned this week.
+
+– Discuss properties and applications.
+
+– Emphasize how we got here. We asked questions that didn't have answers. We created answers.
