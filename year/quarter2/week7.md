@@ -23,46 +23,28 @@ has_children: true
 <br>
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/IMG_7451.png" alt="Concerned Duck" width="50%">
+<img src="{{ site.baseurl }}/assets/images/IMG_1700.png" alt="Winter ice storm" width="50%">
 
 
 {: .text-center}
-### <b>  Multiplied We Stand. Divided We Fraction! </b>
+### <b>  Group presentations! Holiday activity. </b>
 
-• Day 1:Ask multiplication questions that don't yet have answers.
+• Day 1:Group Presentations
 
-– What number solves 3x=1?
+– Discussions
 
-– If we want to “undo” the multiplication by 3 we have to invent a new number that is the multiplicative inverse of 3.
+• Day 2: Group Presentations
 
-– Point out properties similar to square game.The concept of an inverse, the “undo” action. 
+– Discussions
 
-– Ask questions. Ex. 5x=10,0x=7...Have students create their own examples.
+• Day 3:Group Presentations
 
-– Then ask examples with no solution in the natural numbers: 5x=4,8x=5...Have students create their own examples.
+– Discussions
 
-• Day 2: Rationals on the number line.
+• Day 4: Holiday Activity
 
-– Numerator, denominator: which is bigger?
+– Math art!
 
-– Where are they on the number line?
+• Day 5: Holiday Activity
 
-• Day 3:Infinite zoom!
-
-– Zoom into zero: \frac{1}{10},\frac{1}{100},\frac{1}{1000},\frac{1}{10,000}
-
-– Infinitely small: measuring with a rule examples.
-
-– Introduce decimal notation. Discuss general base 10 system.
-
-• Day 4: Word problems and applications
-
-– Have students work in groups on worksheets for this section.
-
-– Have students create their own word problems in groups
-
-• Day 5: Review the rationals and what they learned this week.
-
-– Discuss properties and applications.
-
-– Emphasize how we got here. We asked questions that didn't have answers. We created answers.
+– Math art!
