@@ -23,46 +23,62 @@ has_children: true
 <br>
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/IMG_7451.png" alt="Concerned Duck" width="50%">
+<img src="{{ site.baseurl }}/assets/images/Gall–Peters_projection_SW.jpg" alt="World map" width="50%">
 
 
 {: .text-center}
-### <b>  Multiplied We Stand. Divided We Fraction! </b>
+### <b>  Graphs, Maps and Points!  </b>
 
-• Day 1:Ask multiplication questions that don't yet have answers.
+• Day 1: Intro to plotting: $\left(x,y\right)$, maps: longitude, latitude
 
-– What number solves 3x=1?
+– How do we locate places on a map? World map?
 
-– If we want to “undo” the multiplication by 3 we have to invent a new number that is the multiplicative inverse of 3.
+– Discuss how using the grid on the map helps identify locations.
 
-– Point out properties similar to square game.The concept of an inverse, the “undo” action. 
+– Mailman game: You have to deliver mail. How would you want the letters addressed?
 
-– Ask questions. Ex. 5x=10,0x=7...Have students create their own examples.
+– Have students discuss their best solutions.
 
-– Then ask examples with no solution in the natural numbers: 5x=4,8x=5...Have students create their own examples.
+– Define the Cartesian coordinate system.
 
-• Day 2: Rationals on the number line.
+– Look at points on the sides of a square. Discuss $x\sim y$
 
-– Numerator, denominator: which is bigger?
+– Discuss points where $x=y,x=-y$
 
-– Where are they on the number line?
+• Day 2: Translations
 
-• Day 3:Infinite zoom!
+– Did we move or did the town move?
 
-– Zoom into zero: \frac{1}{10},\frac{1}{100},\frac{1}{1000},\frac{1}{10,000}
+– Does $\left(x-2,y+3\right)$ move the point at $\left(x,y\right)$ or does it move the grid?
 
-– Infinitely small: measuring with a rule examples.
+– This will break their brains but thats good. Sore muscles are part of exercise.
 
-– Introduce decimal notation. Discuss general base 10 system.
+• Day 3: Reflections
 
-• Day 4: Word problems and applications
+– Ask students how to flip or reflect a map?
 
-– Have students work in groups on worksheets for this section.
+– Recall the square game. How do we do these flips with the point $\left(5,3\right)$?
 
-– Have students create their own word problems in groups
+– Again are we flipping moving the point or the grid.
 
-• Day 5: Review the rationals and what they learned this week.
+• Day 4: Scaling
 
-– Discuss properties and applications.
+– What happens if we multiply points on a square by $3$?
 
-– Emphasize how we got here. We asked questions that didn't have answers. We created answers.
+– Did we enlarge the square or shrink the grid?
+
+– Examples
+
+• Day 5: Rotations
+
+– Discuss how to rotate a square on a grid?
+
+– Try rotating the grid by $45^{\circ}$. Where are the corners on the grid?
+
+– Introduce degree angle measurement system. Why $360^{\circ}$?
+
+– Before calculators, numbers with lots of factors were used.
+
+– Lightly introduce polar coordinates: $\left(r,\theta\right)$
+
+– Discuss Grand River, Woodward, Gratiot on Dertroit map.

@@ -27,42 +27,50 @@ has_children: true
 
 
 {: .text-center}
-### <b>  Multiplied We Stand. Divided We Fraction! </b>
+### <b>  How to Tell Your Vegan Math Teacher is Irrational  </b>
 
-• Day 1:Ask multiplication questions that don't yet have answers.
+Ask questions about squaring. Extend to irrational numbers! 
 
-– What number solves 3x=1?
+• Day 1: Story of Pythagoras
 
-– If we want to “undo” the multiplication by 3 we have to invent a new number that is the multiplicative inverse of 3.
+– All numbers were whole or ratios.
 
-– Point out properties similar to square game.The concept of an inverse, the “undo” action. 
+– What is the diagonal length of a square?
 
-– Ask questions. Ex. 5x=10,0x=7...Have students create their own examples.
+– Intro to pythagorean theorem
 
-– Then ask examples with no solution in the natural numbers: 5x=4,8x=5...Have students create their own examples.
+– Have students estimate the diagonal of a unit square.
 
-• Day 2: Rationals on the number line.
+– Have them physically measure a square paper.
 
-– Numerator, denominator: which is bigger?
+– How do we write this number?
 
-– Where are they on the number line?
+• Day 2: Square roots
 
-• Day 3:Infinite zoom!
+– Discuss how squaring is always postive. It's a many to one matching.
 
-– Zoom into zero: \frac{1}{10},\frac{1}{100},\frac{1}{1000},\frac{1}{10,000}
+– Square root is the undoing or inverse of squaring.
 
-– Infinitely small: measuring with a rule examples.
+– Discuss branches of square root.
 
-– Introduce decimal notation. Discuss general base 10 system.
+• Day 3:Proof by contradiction
 
-• Day 4: Word problems and applications
+– Discuss some simple examples. Reference logic previous lesson.
 
-– Have students work in groups on worksheets for this section.
+– Suppose $\sqrt{2}$ is rational. Then explore.
 
-– Have students create their own word problems in groups
+– See the contradiction.
 
-• Day 5: Review the rationals and what they learned this week.
+• Day 4: Explore other examples of irrational numbers
+
+– Square root of any prime number.
+
+– $\pi$ is irrational
+
+– Talk about decimal representation. 
+
+• Day 5: Review what they learned this week.
 
 – Discuss properties and applications.
 
-– Emphasize how we got here. We asked questions that didn't have answers. We created answers.
+– Emphasize how we got here.
