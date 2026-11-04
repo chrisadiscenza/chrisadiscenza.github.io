@@ -15,7 +15,7 @@ has_children: true
  </style>
 
 {: .text-center}
-# <b>Week 1</b> 
+# <b>Week 4</b> 
 
 {: .text-center}
 ## <b> Daily Schedule</b>
@@ -23,18 +23,18 @@ has_children: true
 <br>
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/Set game cards 2.jpg" alt="Summer Vibes" width="50%">
+<img src="{{ site.baseurl }}/assets/images/Flavor Flav.jpg" alt="Summer Vibes" width="50%">
 
 
 {: .text-center}
-### <b> Wanna Play a Game?</b>
+### <b> It's Time for the Clock Game!</b>
 
-• Day 1: Introduction to “What is Math?” This is very exploratory. Let students discuss in groups. Questions: Are there rules? Is it a game? Is it discovered or invented? What isn't math? 
+•• Day 1: Continue square game discussion problems solving equations.
 
-• Day 2: Have students play Set Game in groups. This will take a moment for them to get the hang of it.
+• Day 2: Introduce clock game. Discuss patterns and symmetries in clock game.
 
-• Day 3: Start with 10-15 min of Set game in groups. Discuss the different traits on the cards. Strategies for finding a set.
+• Day 3: Clock game but with more numbers.
 
-• Day 4: CLR game with toy animals instead of money or tokens. Have students keep track of how many rounds the game lasted. 
+• Day 4: Clock game but with degrees in a circle.
 
-• Day 5: Discussion and observations from the games. Patterns, strategies?
+• Day 5: Keeping track of the days: Discuss different base systems. week.

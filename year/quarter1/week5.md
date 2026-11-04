@@ -15,7 +15,7 @@ has_children: true
  </style>
 
 {: .text-center}
-# <b>Week 1</b> 
+# <b>Week 5</b> 
 
 {: .text-center}
 ## <b> Daily Schedule</b>
@@ -23,18 +23,28 @@ has_children: true
 <br>
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/Set game cards 2.jpg" alt="Summer Vibes" width="50%">
+<img src="{{ site.baseurl }}/assets/images/Ugly but honest natural numbers.jpg" alt="Ugly but honest" width="50%">
 
 
 {: .text-center}
 ### <b> Wanna Play a Game?</b>
 
-• Day 1: Introduction to “What is Math?” This is very exploratory. Let students discuss in groups. Questions: Are there rules? Is it a game? Is it discovered or invented? What isn't math? 
+•• This lesson is going to be tough. But you got this.
 
-• Day 2: Have students play Set Game in groups. This will take a moment for them to get the hang of it.
+• Day 1: Algorithms. Examples: recipes, instructions
 
-• Day 3: Start with 10-15 min of Set game in groups. Discuss the different traits on the cards. Strategies for finding a set.
+– Discuss the concept of an algorithm. Have student groups create their own example algorithm.
 
-• Day 4: CLR game with toy animals instead of money or tokens. Have students keep track of how many rounds the game lasted. 
+– History discussion of Al-Khwārizmī and the House of Wisdom.
 
-• Day 5: Discussion and observations from the games. Patterns, strategies?
+– Perform rotation combinations and have studnets create a table of this.
+
+• Day 2: Discuss cardinality of a set. Use physical boxes/bins, pennies to demonstrate sets within sets. Use print outs of \emptyset,\{,\}.
+
+• Day 3: Introduce successor algorithm. This will be difficult. Use tangibles to make it less abstract. 
+
+– Have students notice patterns. 
+
+• Day 4: Define the natural numbers. Have students notice that the definition of a number is the set of all previous numbers. 
+
+• Day 5: Review the natural numbers and what they learned this week. Have students recall the definition for their favorite number.
