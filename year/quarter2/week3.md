@@ -53,11 +53,11 @@ has_children: true
 
 • Day 4: Rates
 
-– Speed examples
+– Speed and velocity examples. 
 
 – Work Work Work Work Work Work: Money per hour examples
 
-– Slope on a graph
+– Slopes on a graph: a visual representation of rates. 
 
 • Day 5: Review what they learned this week.
 
