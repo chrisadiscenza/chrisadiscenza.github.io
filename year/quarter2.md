@@ -20,19 +20,30 @@ has_children: true
 {: .text-center}
 ## <b> Weekly Schedule</b>
 
+Week 1: Multiplied We Stand. Divided We Fraction! *We ask and we extend to rationals! *Addition, Multiplication (ahh common denominators!)
 
-Week 0: School polices, procedures, syllabus, assessment 
+Week 2: Let's be rational. Let's make word problems! *Students create word problems with fractions.
 
-Week 1: Wanna Play a Game?
+Week 3: Ratios are underrated. But rates are over ratioed. *Word problems/ activities involving rates and ratios.
 
-Week 2 Logic Puzzles and Sets.
+Thanksgiving Week: Creative math activities, review, and play Set and CLR games.
 
-Week 3: Square Game I. Setup and learning to play.
+Week 4: This lesson is $30\%$ perseverance, $40\%$ patience, and $50\%$ miscellaneous. *This lesson is about percents. 
 
-Week 4: Square Game II: Start solving equations. Asking questions. different bases? This was they are familiar and recognize the importance of base 10 when learning decimal representation.
+Week 5: How to Tell Your Vegan Math Teacher is Irrational *Ask questions about squaring. Extend to irrational numbers! 
 
-Week 5: Build Natural Numbers, Addition Multiplication. 
+Week 6: Graphs, maps and points! Intro to plotting: $\left(x,y\right)$, maps: longitude, latitude
 
-Week 6: Inventing Negativity, Ask questions, extend to integers! 
+Week 7: Group presentations! Holiday activity.
 
-Week 7: Addition and Multiplication. Together at last! *Distributive Law
+Happy New Year!
+
+Week 8: Meet My Imaginary Friend *Ask questions about squaring. Extend to imaginary numbers! 
+
+Week 9: Relations: proportional and inequalities
+
+Week 10: Relations and Functions! Cartesian product
+
+
+{: .text-center}
+<img src="{{ site.baseurl }}/assets/images/IMG_1700.png" alt="Winter is Here" width="50%">
