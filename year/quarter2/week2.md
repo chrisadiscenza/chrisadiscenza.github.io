@@ -40,11 +40,11 @@ has_children: true
 
 – Therefore we must makes the fractions into the same type.
 
-– Discuss equivalent fractions: \frac{1}{2}=\frac{2}{4}=\frac{3}{6}...
+– Discuss equivalent fractions: $\frac{1}{2}=\frac{2}{4}=\frac{3}{6}$...
 
 • Day 2: Common denominator algorithm. 
 
-– Multiply each fraction by “one” but in a strategic form \frac{n}{n}.
+– Multiply each fraction by “one” but in a strategic form $\frac{n}{n}$.
 
 – Have students make an adding recipe using the denominators from the fractions.
 
