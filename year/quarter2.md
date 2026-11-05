@@ -17,6 +17,11 @@ has_children: true
 {: .text-center}
 # <b>Quarter 2</b> 
 
+
+{: .text-center}
+<img src="{{ site.baseurl }}/assets/images/IMG_1700.png" alt="Winter is Here" width="50%">
+
+
 {: .text-center}
 ## <b> Weekly Schedule</b>
 
@@ -45,5 +50,3 @@ Week 9: Relations: proportional and inequalities
 Week 10: Relations and Functions! Cartesian product
 
 
-{: .text-center}
-<img src="{{ site.baseurl }}/assets/images/IMG_1700.png" alt="Winter is Here" width="50%">
