@@ -31,15 +31,15 @@ has_children: true
 
 • Day 1:Ask multiplication questions that don't yet have answers.
 
-– What number solves 3x=1?
+– What number solves $3x=1$?
 
-– If we want to “undo” the multiplication by 3 we have to invent a new number that is the multiplicative inverse of 3.
+– If we want to “undo” the multiplication by $3$ we have to invent a new number that is the multiplicative inverse of $3$.
 
 – Point out properties similar to square game.The concept of an inverse, the “undo” action. 
 
-– Ask questions. Ex. 5x=10,0x=7...Have students create their own examples.
+– Ask questions. Ex. $5x=10$, $10x=70$...Have students create their own examples.
 
-– Then ask examples with no solution in the natural numbers: 5x=4,8x=5...Have students create their own examples.
+– Then ask examples with no solution in the natural numbers: $5x=4$, $8x=5$...Have students create their own examples.
 
 • Day 2: Rationals on the number line.
 
@@ -49,7 +49,7 @@ has_children: true
 
 • Day 3:Infinite zoom!
 
-– Zoom into zero: \frac{1}{10},\frac{1}{100},\frac{1}{1000},\frac{1}{10,000}
+– Zoom into zero: $\frac{1}{10}$, $\frac{1}{100}$, $\frac{1}{1000}$, $\frac{1}{10,000}$
 
 – Infinitely small: measuring with a rule examples.
 
