@@ -41,7 +41,7 @@ Discuss the simplicity of it: $n\%=\frac{n}{100}$
 
 – Use pie charts and other graph visuals.
 
-– Discuss “over percentages” like $150\%, 200\%...$
+– Discuss “over percentages” like $150\%, 200\%$...
 
 • Day 2: Word problem examples
 
@@ -65,7 +65,7 @@ Discuss the simplicity of it: $n\%=\frac{n}{100}$
 
 – Percent increase/ decrease
 
-– Slope on a graph
+– Visualize thesse concpets as a slope on a graph. 
 
 • Day 5: Review what they learned this week.
 
