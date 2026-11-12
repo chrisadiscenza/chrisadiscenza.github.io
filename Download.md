@@ -27,8 +27,6 @@ Worksheets:
  [Quarter 1 Week 2 worksheet](/assets/pdfs/Q1_W1_Worksheet_2_logic.pdf)
 
 
-Quarter 1 Week 2 worksheet
-
 Quarter 1 Week 3 worksheet
 
 Quarter 1 Week 4 worksheet
