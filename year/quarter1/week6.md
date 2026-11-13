@@ -37,7 +37,7 @@ has_children: true
 
 – Students of course are already familiar with addition of natural numbers. Point out properties similar to square game. 
 
-– Ask questions. Ex. $5+?=11,0+?=7...$ Have students create their own examples.
+– Ask questions. Ex. $3+?=5,0+?=7...$ Have students create their own examples.
 
 – Then ask examples with no solution in the natural numbers: $5+?=0,8+?=3...$ Have students create their own examples.
 
@@ -61,4 +61,4 @@ has_children: true
 
 – Examples: North, South, addresses in a city.
 
-– Examples: Latitude, Longitude 
+– Examples: Latitude, Longitude on a world map.
