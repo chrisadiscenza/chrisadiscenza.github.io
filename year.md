@@ -84,7 +84,7 @@ Week 10: Relations and Functions! Cartesian product
 {: .text-center}
 ## <b> Quarter 3</b>
 
-Week 1: Functions: One to one, many to one, inverse?Also cardinality and infinity: countable, uncountable
+Week 1: Functions: One to one, many to one, and inverse. Also cardinality and infinity: countable, uncountable, and beyond!
 
 Week 2: Linear Function Fun! slopes, intercepts, graphs
 
