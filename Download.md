@@ -22,9 +22,11 @@ has_children: true
 
 Worksheets:
 
- [Quarter 1 Week 1 worksheet](/assets/pdfs/Q1_W1_Worksheet_1.pdf)
+ [Quarter 1 Week 1 Intro worksheet](/assets/pdfs/Q1_W1_Worksheet_1.pdf)
 
- [Quarter 1 Week 2 worksheet](/assets/pdfs/Q1_W1_Worksheet_2_logic.pdf)
+ [Quarter 1 Week 2 Logic and sets worksheet](/assets/pdfs/Q1_W2_Worksheet_2_logic.pdf)
+
+ [Quarter 1 Week 2 Algorithm and numbers worksheet](/assets/pdfs/Q1Worksheet Algorithm Numbers.pdf)
 
 
 Quarter 1 Week 3 worksheet
@@ -39,9 +41,7 @@ Quarter 1 Week 7 worksheet
 
 Quarter 1 Week 8 worksheet
 
-Logic Puzzles:
-
-[Kitten or Tiger Trials](/assets/pdfs/Logic Puzzle signs 8 trials.pdf)
+Logic Puzzles: [Kitten or Tiger Trials](/assets/pdfs/Logic Puzzle signs 8 trials.pdf)
 
 
 [Schedule for the year](/assets/pdfs/Foundations_curriculum_year_schedule.pdf)
