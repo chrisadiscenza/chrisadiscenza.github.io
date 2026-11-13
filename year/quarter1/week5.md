@@ -29,7 +29,9 @@ has_children: true
 {: .text-center}
 ### <b> All Natural. No Additives.</b>
 
-•• This lesson is going to be tough. But you got this.
+•• This lesson is going to be difficult because it's a little abstract. But you got this!
+
+[Algorithm and Natural Numbers Worksheet](/assets/pdfs/Q1Worksheet Algorithm Numbers.pdf)
 
 • Day 1: Algorithms. Examples: recipes, instructions
 
@@ -45,6 +47,6 @@ has_children: true
 
 – Have students notice patterns. 
 
-• Day 4: Define the natural numbers. Have students notice that the definition of a number is the set of all previous numbers. 
+• Day 4: Define the natural numbers. Have students notice that the definition of a number is the set of all previous numbers. For example, the definition of $6=\l{$
 
 • Day 5: Review the natural numbers and what they learned this week. Have students recall the definition for their favorite number.

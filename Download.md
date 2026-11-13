@@ -26,14 +26,11 @@ Worksheets:
 
  [Quarter 1 Week 2 Logic and sets worksheet](/assets/pdfs/Q1_W2_Worksheet_2_logic.pdf)
 
- [Quarter 1 Week 2 Algorithm and numbers worksheet](/assets/pdfs/Q1Worksheet Algorithm Numbers.pdf)
-
-
 Quarter 1 Week 3 worksheet
 
 Quarter 1 Week 4 worksheet
 
-Quarter 1 Week 5 worksheet
+ [Quarter 1 Week 5 Algorithm and numbers worksheet](/assets/pdfs/Q1Worksheet Algorithm Numbers.pdf)
 
 Quarter 1 Week 6 worksheet
 
