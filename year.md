@@ -34,13 +34,13 @@ Week 0: School polices, procedures, syllabus, assessments
  Setup and learning to play.
 
 [Week 4: Square Game II.](https://chrisadiscenza.github.io/year/quarter1/week4.html)
- Start solving equations. Asking questions. different bases? This was they are familiar and recognize the importance of base 10 when learning decimal representation.
+ Solving equations. Asking questions. 
 
 [Week 5: Build the Natural Numbers.](https://chrisadiscenza.github.io/year/quarter1/week5.html)
  Addition and Multiplication of natural numbers. 
 
 [Week 6: Inventing Negativity.](https://chrisadiscenza.github.io/year/quarter1/week6.html)
- Ask questions, extend the numberline to the integers! 
+ Ask questions. Extend the numberline to the integers! 
 
 [Week 7: Addition and Multiplication. Together at last!](https://chrisadiscenza.github.io/year/quarter1/week7.html)
  The Distributive Law brings consistency to the number land.  
@@ -52,9 +52,9 @@ Week 0: School polices, procedures, syllabus, assessments
 {: .text-center}
 ## <b> Quarter 2</b>
 
-Week 1: Multiplied We Stand. Divided We Fraction! *We ask and we extend to rationals! *Addition, Multiplication (ahh common denominators!)
+Week 1: Multiplied We Stand. Divided We Fraction! *We ask and we extend to rationals! *Addition, Multiplication together at last. (AHHH common denominators!)
 
-Week 2: Let's be rational. Let's make word problems! *Students create word problems with fractions.
+Week 2: Let's be rational. Let's make word problems! 
 
 Week 3: Ratios are underrated. But rates are over ratioed. *Word problems/ activities involving rates and ratios.
 
@@ -74,7 +74,7 @@ Week 8: Meet My Imaginary Friend *Ask questions about squaring. Extend to imagin
 
 Week 9: Relations: proportional and inequalities
 
-Week 10: Relations and Functions! Cartesian product
+Week 10: Relations and Functions! Subsets of the Cartesian product
 
 
 {: .text-center}
@@ -84,11 +84,11 @@ Week 10: Relations and Functions! Cartesian product
 {: .text-center}
 ## <b> Quarter 3</b>
 
-Week 1: Functions: One to one, many to one, and inverse. Also cardinality and infinity: countable, uncountable, and beyond!
+Week 1: Functions: One to one, many to one, inverse, and composition. Also cardinality and infinity: countable, uncountable, and beyond!
 
 Week 2: Linear Function Fun! slopes, intercepts, graphs
 
-Week 3: What's the inverse of linear? Also linear! solving linear equations
+Week 3: What's the inverse of linear? Also linear! Solving linear equations
 
 Week 4: More linear! Adding and multiplying lines (algebra of functions)
 
