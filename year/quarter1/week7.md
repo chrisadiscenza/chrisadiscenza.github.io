@@ -73,12 +73,13 @@ You could say this as: "the sum of the areas is the area of the sum" or "the tot
 For example: $4\times 53=4 \times (50+3)=4 \times 50+4 \times 3$
 
 Another example:
-$$
+> <span id ="equ1"> </span>
+>$$
 > \begin{align*}
 > 46\times 53=(40+6) \times (50+3) &= (40+6) \times 50+(40+6) \times 3\\
 > &= 40 \times 50 +6 \times 50 +40 \times 3 + 6 \times 3
 > \end{align*}
-> $$
+>$$
 
 • Day 5: Review the integers and what they learned this week.
 
