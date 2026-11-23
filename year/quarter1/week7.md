@@ -67,7 +67,15 @@ has_children: true
 
 – Application problems: quantity = rate $\times$ time.
 
-• Day 4: Groups in groups. The properties of addition and multiplication. 
+• Day 4: Groups in groups. Use the distributive property to compute multiplication problems without a calculator. For example: $4\times 53=4 \times (50+3)=4 \times 50+4 \times 3$
+
+    Another example:
+$$
+> \begin{align*}
+> 46\times 53=(40+6) \times (50+3) &= (40+6) \times 50+(40+6) \times 3\\
+> &= 40 \times 50 +6 \times 50 +40 \times 3 + 6 \times 3
+> \end{align*}
+> $$
 
 • Day 5: Review the integers and what they learned this week.
 
