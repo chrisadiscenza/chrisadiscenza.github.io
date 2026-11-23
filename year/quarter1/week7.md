@@ -31,11 +31,25 @@ has_children: true
 
 • Day 1: Introduce Multiplication
 
-– Use examples: number of cards in the SET game, number of students using rows of desks.
+– At it's core, multiplication is a process like addition that takes two numbers and transforms them into a single number. In fact this is exactly our experience with calculators: we intput two numbers and it outputs a number. 
 
-– Number of tiles also leads to the familiarity that 
+– The mechanics or intuition of multiplication is described in many ways.
+    Multiplication describes the total quantity after repeated addition. In other words, $n\times m$ is the algorithm of adding $n$ repeated $m$ times.   
+    
+    Groupings of objects: $n\times m$ is the total quantity of $m$ groups each with $n$ objects.
 
-– Students of course are already familiar with addition of natural numbers. Point out properties similar to square game.
+    Geometry: $n\times m$ is the area of a rectangle of length $n$ and width $m$.
+
+– Examples: 
+    Number of Green Diamond cards in the SET game = $3 \times 3$.
+
+    Number of students using rows of desks.
+    
+    Number of floor tiles also leads to the familiarity that multiplication describes the area of a region of space. 
+
+– Students of course are already familiar with addition and multiplication of natural numbers.    
+    
+    Point out properties similar to square game: Associative, Commutative, Identity,Inverses
 
 – Have students create their own examples.
 
@@ -43,13 +57,15 @@ has_children: true
 
 – This is one of the most important laws in math.
 
-– This can be illustrated by multiplication using different groupings.
+– This can be illustrated by multiplication using different groupings of the numbers and also using the area of a rectangle cut into two smaller rectanles. 
+
+    You could say this as: "the sum of the areas is the area of the sum" or "the total area is the sum if it's parts".
 
 • Day 3: Word problems
 
-– Have students create and solve problems involving multiplication of integers on the number line.
+– Have students create and solve problems involving multiplication of integers on the number line and area of rectangles.
 
-– Application problems
+– Application problems: quantity = rate $\times$ time.
 
 • Day 4: Groups in groups. The properties of addition and multiplication. 
 
