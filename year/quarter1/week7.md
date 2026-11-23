@@ -36,20 +36,21 @@ has_children: true
 – The mechanics or intuition of multiplication is described in many ways.
     Multiplication describes the total quantity after repeated addition. In other words, $n\times m$ is the algorithm of adding $n$ repeated $m$ times.   
     
-    Groupings of objects: $n\times m$ is the total quantity of $m$ groups each with $n$ objects.
+Groupings of objects: $n\times m$ is the total quantity of $m$ groups each with $n$ objects.
 
-    Geometry: $n\times m$ is the area of a rectangle of length $n$ and width $m$.
+Geometry: $n\times m$ is the area of a rectangle of length $n$ and width $m$.
 
 – Examples: 
-    Number of Green Diamond cards in the SET game = $3 \times 3$.
 
-    Number of students using rows of desks.
+Number of Green Diamond cards in the SET game = $3 \times 3$.
+
+Number of students using rows of desks.
     
-    Number of floor tiles also leads to the familiarity that multiplication describes the area of a region of space. 
+Number of floor tiles also leads to the familiarity that multiplication describes the area of a region of space. 
 
 – Students of course are already familiar with addition and multiplication of natural numbers.    
     
-    Point out properties similar to square game: Associative, Commutative, Identity,Inverses
+Point out properties similar to square game: Associative, Commutative, Identity,Inverses
 
 – Have students create their own examples.
 
@@ -59,7 +60,7 @@ has_children: true
 
 – This can be illustrated by multiplication using different groupings of the numbers and also using the area of a rectangle cut into two smaller rectanles. 
 
-    You could say this as: "the sum of the areas is the area of the sum" or "the total area is the sum if it's parts".
+You could say this as: "the sum of the areas is the area of the sum" or "the total area is the sum if it's parts".
 
 • Day 3: Word problems
 
@@ -67,9 +68,11 @@ has_children: true
 
 – Application problems: quantity = rate $\times$ time.
 
-• Day 4: Groups in groups. Use the distributive property to compute multiplication problems without a calculator. For example: $4\times 53=4 \times (50+3)=4 \times 50+4 \times 3$
+• Day 4: Groups in groups. Use the distributive property to compute multiplication problems without a calculator. 
 
-    Another example:
+For example: $4\times 53=4 \times (50+3)=4 \times 50+4 \times 3$
+
+Another example:
 $$
 > \begin{align*}
 > 46\times 53=(40+6) \times (50+3) &= (40+6) \times 50+(40+6) \times 3\\
