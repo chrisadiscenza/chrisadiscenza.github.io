@@ -23,7 +23,7 @@ has_children: true
 <br>
 
 {: .text-center}
-<img src="{{ site.baseurl }}/assets/images/Set game cards 2.jpg" alt="Summer Vibes" width="50%">
+<img src="{{ site.baseurl }}/assets/images/IMG_7332.png" alt="Summer Vibes" width="50%">
 
 
 {: .text-center}
