@@ -26,7 +26,7 @@ Worksheets:
 
  [Quarter 1 Week 2 Logic and sets worksheet](/assets/pdfs/Q1_W2_Worksheet_2_logic.pdf)
 
-Quarter 1 Week 3 worksheet
+[Quarter 1 Week 3 Square Game Worksheet](/assets/pdfs/Worksheet Square Game updated.pdf) 
 
 Quarter 1 Week 4 worksheet
 
