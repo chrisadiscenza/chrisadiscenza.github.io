@@ -28,15 +28,15 @@ Week 0: School polices, procedures, syllabus, assessments
 
 [Week 1: Wanna Play a Game?](https://chrisadiscenza.github.io/year/quarter1/week1.html)
 
-[Week 2: Logic Puzzles and Sets.](https://chrisadiscenza.github.io/year/quarter1/week2.html)
+[Week 2: Logic Puzzles and Sets](https://chrisadiscenza.github.io/year/quarter1/week2.html)
 
-[Week 3: Square Game I.](https://chrisadiscenza.github.io/year/quarter1/week3.html)
+[Week 3: Square Game](https://chrisadiscenza.github.io/year/quarter1/week3.html)
  Setup and learning to play.
 
-[Week 4: Square Game II.](https://chrisadiscenza.github.io/year/quarter1/week4.html)
+[Week 4: It's Time for Clock Game](https://chrisadiscenza.github.io/year/quarter1/week4.html)
  Solving equations. Asking questions. 
 
-[Week 5: Build the Natural Numbers.](https://chrisadiscenza.github.io/year/quarter1/week5.html)
+[Week 5: Building the Natural Numbers.](https://chrisadiscenza.github.io/year/quarter1/week5.html)
  Addition and Multiplication of natural numbers. 
 
 [Week 6: Inventing Negativity.](https://chrisadiscenza.github.io/year/quarter1/week6.html)
@@ -52,29 +52,35 @@ Week 0: School polices, procedures, syllabus, assessments
 {: .text-center}
 ## <b> Quarter 2</b>
 
-Week 1: Multiplied We Stand. Divided We Fraction! *We ask and we extend to rationals! *Addition, Multiplication together at last. (AHHH common denominators!)
+ [Week 1: Multiplied We Stand. Divided We Fraction!](https://chrisadiscenza.github.io/year/quarter2/week1.html)
 
-Week 2: Let's be rational. Let's make word problems! 
+ [Week 2: Let's be rational!](https://chrisadiscenza.github.io/year/quarter2/week2.html)
 
-Week 3: Ratios are underrated. But rates are over ratioed. *Word problems/ activities involving rates and ratios.
+ [Week 3: Ratios are underrated. But rates are over ratioed.](https://chrisadiscenza.github.io/year/quarter2/week3.html)
+
 
 Thanksgiving Week: Creative math activities, review, and play Set and CLR games.
 
-Week 4: This lesson is $30\%$ perseverance, $40\%$ patience, and $50\%$ miscellaneous. *This lesson is about percents. 
+ [Week 4: This lesson is $30\%$ perseverance, $40\%$ patience, and $50\%$ miscellaneous. *This lesson is about percents.](https://chrisadiscenza.github.io/year/quarter2/week4.html)
 
-Week 5: How to Tell Your Vegan Math Teacher is Irrational *Ask questions about squaring. Extend to irrational numbers! 
 
-Week 6: Graphs, maps and points! Intro to plotting: $\left(x,y\right)$, maps: longitude, latitude
+ [Week 5: How to Tell Your Vegan Math Teacher is Irrational](https://chrisadiscenza.github.io/year/quarter2/week5.html)
 
-Week 7: Group presentations! Holiday activity.
+
+  [Week 6: Graphs, maps and points! Intro to plotting $\left(x,y\right)$!](https://chrisadiscenza.github.io/year/quarter2/week6.html)
+
+ [Week 7: Group presentations! Holiday activity.](https://chrisadiscenza.github.io/year/quarter2/week7.html)
+
 
 Happy New Year!
 
-Week 8: Meet My Imaginary Friend *Ask questions about squaring. Extend to imaginary numbers! 
+ [Week 8: Meet My Imaginary Friend.](https://chrisadiscenza.github.io/year/quarter2/week8.html)
 
-Week 9: Relations: proportional and inequalities
+ [Week 9: Relations: proportional and inequalities](https://chrisadiscenza.github.io/year/quarter2/week9.html)
 
-Week 10: Relations and Functions! Subsets of the Cartesian product
+
+ [Week 10: Relations and Functions! As easy as subsets of the Cartesian product.](https://chrisadiscenza.github.io/year/quarter2/week10.html)
+
 
 
 {: .text-center}
