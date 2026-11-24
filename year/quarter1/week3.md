@@ -30,6 +30,8 @@ has_children: true
 ### <b> Square Game </b>
 
 • Day 1. Introduce the Square Game.
+– [Square Game Worksheet](/assets/pdfs/Worksheet Square Game updated.pdf) 
+
 
 – Pass out square pieces of paper. Have the studeents label the corners with A, B, C, D clockwise around starting from the upper left corner.  Have kids decorate their squares so they cherish them. 
 
