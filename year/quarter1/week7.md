@@ -76,7 +76,7 @@ Another example:
 > <span id ="equ1"> </span>
 >$$
 > \begin{align*}
-> 46\times 53=(40+6) \times (50+3)\\ 
+> 46\times 53 & =(40+6) \times (50+3)\\ 
 > &= (40+6) \times 50+(40+6) \times 3\\
 > &= 40 \times 50 +6 \times 50 +40 \times 3 + 6 \times 3
 > \end{align*}
